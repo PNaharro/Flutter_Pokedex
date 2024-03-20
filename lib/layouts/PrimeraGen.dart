@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_pokedex/layouts/PokemonDetailPage.dart';
+import 'package:flutter_pokedex/layouts/SecondLayout.dart';
 
 class PrimeraGen extends StatefulWidget {
   const PrimeraGen({Key? key}) : super(key: key);
@@ -56,7 +57,7 @@ class PrimeraGenIntroState extends State<PrimeraGen> {
   Widget _buildNumberButton(int number) {
     return TextButton(
       onPressed: () {
-        //_navigateToPokemonDetails(number.toString());
+        _navigateToPokemonDetails(number.toString());
       },
       child: ListTile(
         title: Text(
@@ -69,15 +70,16 @@ class PrimeraGenIntroState extends State<PrimeraGen> {
     );
   }
 
-// Función para navegar a la página de detalles del Pokémon
-  void _navigateToPokemonDetails(String id) {
-    Navigator.push(
-      context,
-      MaterialPageRoute(
-        builder: (context) => PokemonDetailPage(pokemonId: id, pokemonJsonPath: 'assets\files'),
-      ),
-    );
-  }
+void _navigateToPokemonDetails(String id) {
+  int pokemonId = int.parse(id);
+  Navigator.push(
+    context,
+    MaterialPageRoute(
+      builder: (context) => PokemonPageDetail(pokemonId: pokemonId),
+    ),
+  );
+}
+
   // Función para mostrar el mensaje de bienvenida
   void _showWelcomeMessage(BuildContext context) {
     showDialog(

@@ -1,729 +1,728 @@
-{
-    "pokémon": [
+[
         {
         "imagen": "assets/Pokemon-Images-001-151/001-Bulbasaur.png",
         "id": 1,
         "nombre": "Bulbasaur",
         "tipo": ["Planta", "Veneno"],
-        "descripción": "Posee una semilla en el lomo desde que nace. Si absorbe los rayos del sol crecerá muy rápido.",
+        "descripcion": "Posee una semilla en el lomo desde que nace. Si absorbe los rayos del sol crecerá muy rápido.",
         "altura": "0.7 m",
         "peso": "6.9 kg",
         "habilidades": ["Espesura", "Clorofila"],
-        "generación": 1
+        "generacion": 1
         },
         {
         "imagen": "assets/Pokemon-Images-001-151/002-Ivysaur.png",
         "id": 2,
         "nombre": "Ivysaur",
         "tipo": ["Planta", "Veneno"],
-        "descripción": "Cuando su bulbo florece, puede absorber más luz solar, lo que le hace aumentar la energía.",
+        "descripcion": "Cuando su bulbo florece, puede absorber más luz solar, lo que le hace aumentar la energía.",
         "altura": "1.0 m",
         "peso": "13.0 kg",
         "habilidades": ["Espesura", "Clorofila"],
-        "generación": 1
+        "generacion": 1
         },
         {
         "imagen": "assets/Pokemon-Images-001-151/003-Venusaur.png",
         "id": 3,
         "nombre": "Venusaur",
         "tipo": ["Planta", "Veneno"],
-        "descripción": "La flor de su lomo es tan grande que cubre todo su cuerpo. Necesita luz solar para vivir.",
+        "descripcion": "La flor de su lomo es tan grande que cubre todo su cuerpo. Necesita luz solar para vivir.",
         "altura": "2.0 m",
         "peso": "100.0 kg",
         "habilidades": ["Espesura", "Clorofila"],
-        "generación": 1
+        "generacion": 1
         },
         {
         "imagen": "assets/Pokemon-Images-001-151/004-Charmander.png",
         "id": 4,
         "nombre": "Charmander",
         "tipo": ["Fuego"],
-        "descripción": "La llama que arde en la punta de su cola indica su estado de salud y emotividad.",
+        "descripcion": "La llama que arde en la punta de su cola indica su estado de salud y emotividad.",
         "altura": "0.6 m",
         "peso": "8.5 kg",
         "habilidades": ["Mar llamas", "Poder solar"],
-        "generación": 1
+        "generacion": 1
         },
         {
         "imagen": "assets/Pokemon-Images-001-151/005-Charmeleon.png",
         "id": 5,
         "nombre": "Charmeleon",
         "tipo": ["Fuego"],
-        "descripción": "Cuando ruge, emite un olor acre por el aire que lo circunda. Esto indica su buena salud.",
+        "descripcion": "Cuando ruge, emite un olor acre por el aire que lo circunda. Esto indica su buena salud.",
         "altura": "1.1 m",
         "peso": "19.0 kg",
         "habilidades": ["Mar llamas", "Poder solar"],
-        "generación": 1
+        "generacion": 1
         },
         {
         "imagen": "assets/Pokemon-Images-001-151/006-Charizard.png",
         "id": 6,
         "nombre": "Charizard",
         "tipo": ["Fuego", "Volador"],
-        "descripción": "Cuando lanza una descarga de fuego muy intensa, la llama de su cola brilla más intensamente.",
+        "descripcion": "Cuando lanza una descarga de fuego muy intensa, la llama de su cola brilla más intensamente.",
         "altura": "1.7 m",
         "peso": "90.5 kg",
         "habilidades": ["Mar llamas", "Inmunidad"],
-        "generación": 1
+        "generacion": 1
         },
         {
         "imagen": "assets/Pokemon-Images-001-151/007-Squirtle.png",
         "id": 7,
         "nombre": "Squirtle",
         "tipo": ["Agua"],
-        "descripción": "Se esconde en su caparazón y lanza agua a presión para protegerse.",
+        "descripcion": "Se esconde en su caparazon y lanza agua a presion para protegerse.",
         "altura": "0.5 m",
         "peso": "9.0 kg",
-        "habilidades": ["Torrente", "Caparazón"],
-        "generación": 1
+        "habilidades": ["Torrente", "Caparazon"],
+        "generacion": 1
         },
         {
         "imagen": "assets/Pokemon-Images-001-151/008-Wartortle.png",
         "id": 8,
         "nombre": "Wartortle",
         "tipo": ["Agua"],
-        "descripción": "Su cola peluda es un símbolo de su longevidad. Cuenta con agudos colmillos que se renuevan constantemente.",
+        "descripcion": "Su cola peluda es un símbolo de su longevidad. Cuenta con agudos colmillos que se renuevan constantemente.",
         "altura": "1.0 m",
         "peso": "22.5 kg",
-        "habilidades": ["Torrente", "Caparazón"],
-        "generación": 1
+        "habilidades": ["Torrente", "Caparazon"],
+        "generacion": 1
         },
         {
         "imagen": "assets/Pokemon-Images-001-151/009-Blastoise.png",
         "id": 9,
         "nombre": "Blastoise",
         "tipo": ["Agua"],
-        "descripción": "Lanza chorros de agua con gran precisión gracias a su cañón de agua situado en la espalda.",
+        "descripcion": "Lanza chorros de agua con gran precision gracias a su cañon de agua situado en la espalda.",
         "altura": "1.6 m",
         "peso": "85.5 kg",
-        "habilidades": ["Torrente", "Caparazón"],
-        "generación": 1
+        "habilidades": ["Torrente", "Caparazon"],
+        "generacion": 1
         },
         {
         "imagen": "assets/Pokemon-Images-001-151/010-Caterpie.png",
         "id": 10,
         "nombre": "Caterpie",
         "tipo": ["Bicho"],
-        "descripción": "Su antena libera un olor peculiar que repele a sus enemigos. Sin embargo, es débil y frágil.",
+        "descripcion": "Su antena libera un olor peculiar que repele a sus enemigos. Sin embargo, es débil y frágil.",
         "altura": "0.3 m",
         "peso": "2.9 kg",
         "habilidades": ["Polvo escudo", "Enjambre"],
-        "generación": 1
+        "generacion": 1
         },
         {
         "imagen": "assets/Pokemon-Images-001-151/011-Metapod.png",
         "id": 11,
         "nombre": "Metapod",
         "tipo": ["Bicho"],
-        "descripción": "Aunque su cuerpo se endurece cuando evoluciona, es vulnerable al ataque si está en esta fase.",
+        "descripcion": "Aunque su cuerpo se endurece cuando evoluciona, es vulnerable al ataque si está en esta fase.",
         "altura": "0.7 m",
         "peso": "9.9 kg",
         "habilidades": ["Muda"],
-        "generación": 1
+        "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/012-Butterfree.png",
             "id": 12,
             "nombre": "Butterfree",
             "tipo": ["Bicho", "Volador"],
-            "descripción": "Cuenta con unas alas de aspecto frágil que son capaces de librarle del suelo y llevarle por el aire.",
+            "descripcion": "Cuenta con unas alas de aspecto frágil que son capaces de librarle del suelo y llevarle por el aire.",
             "altura": "1.1 m",
             "peso": "32.0 kg",
             "habilidades": ["Ojo compuesto", "Polvo escudo"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/013-Weedle.png",
             "id": 13,
             "nombre": "Weedle",
             "tipo": ["Bicho", "Veneno"],
-            "descripción": "Suele encontrarse en bosques y praderas. Tiene un aguijón venenoso en la cabeza.",
+            "descripcion": "Suele encontrarse en bosques y praderas. Tiene un aguijon venenoso en la cabeza.",
             "altura": "0.3 m",
             "peso": "3.2 kg",
             "habilidades": ["Polvo escudo", "Fuga"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/014-Kakuna.png",
             "id": 14,
             "nombre": "Kakuna",
             "tipo": ["Bicho", "Veneno"],
-            "descripción": "Permanece inmóvil esperando a evolucionar. Durante esta etapa, su dura piel le protege.",
+            "descripcion": "Permanece inmovil esperando a evolucionar. Durante esta etapa, su dura piel le protege.",
             "altura": "0.6 m",
             "peso": "10.0 kg",
             "habilidades": ["Mudar"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/015-Beedrill.png",
             "id": 15,
             "nombre": "Beedrill",
             "tipo": ["Bicho", "Veneno"],
-            "descripción": "Es muy territorial. Cuando protege su nido, vuela a gran velocidad y ataca a todo aquel que se acerque.",
+            "descripcion": "Es muy territorial. Cuando protege su nido, vuela a gran velocidad y ataca a todo aquel que se acerque.",
             "altura": "1.0 m",
             "peso": "29.5 kg",
             "habilidades": ["Enjambre", "Cambio habilidad"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/016-Pidgey.png",
             "id": 16,
             "nombre": "Pidgey",
             "tipo": ["Normal", "Volador"],
-            "descripción": "A pesar de ser pequeño, tiene un agudo sentido de la dirección. Se guía por el sol mientras vuela.",
+            "descripcion": "A pesar de ser pequeño, tiene un agudo sentido de la direccion. Se guía por el sol mientras vuela.",
             "altura": "0.3 m",
             "peso": "1.8 kg",
             "habilidades": ["Vista lince", "Tumbos"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/017-Pidgeotto.png",
             "id": 17,
             "nombre": "Pidgeotto",
             "tipo": ["Normal", "Volador"],
-            "descripción": "Es muy territorial. Si alguien invade su espacio, inmediatamente lo ataca con sus afiladas garras.",
+            "descripcion": "Es muy territorial. Si alguien invade su espacio, inmediatamente lo ataca con sus afiladas garras.",
             "altura": "1.1 m",
             "peso": "30.0 kg",
             "habilidades": ["Vista lince", "Tumbos"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/018-Pidgeot.png",
             "id": 18,
             "nombre": "Pidgeot",
             "tipo": ["Normal", "Volador"],
-            "descripción": "Cada vez que bate sus poderosas alas, provoca fuertes vientos. Tiene una visión excepcional que le permite ver objetos muy lejanos.",
+            "descripcion": "Cada vez que bate sus poderosas alas, provoca fuertes vientos. Tiene una vision excepcional que le permite ver objetos muy lejanos.",
             "altura": "1.5 m",
             "peso": "39.5 kg",
             "habilidades": ["Vista lince", "Tumbos"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/019-Rattata.png",
             "id": 19,
             "nombre": "Rattata",
             "tipo": ["Normal"],
-            "descripción": "Es muy común en ciudades y pueblos. Se dice que su alta tasa de reproducción es la culpable de su gran abundancia.",
+            "descripcion": "Es muy común en ciudades y pueblos. Se dice que su alta tasa de reproduccion es la culpable de su gran abundancia.",
             "altura": "0.3 m",
             "peso": "3.5 kg",
             "habilidades": ["Fuga", "Agallas"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/020-Raticate.png",
             "id": 20,
             "nombre": "Raticate",
             "tipo": ["Normal"],
-            "descripción": "Es una especie de roedor sumamente agresiva. Cualquier cosa que se encuentre a su paso será devorada sin contemplaciones.",
+            "descripcion": "Es una especie de roedor sumamente agresiva. Cualquier cosa que se encuentre a su paso será devorada sin contemplaciones.",
             "altura": "0.7 m",
             "peso": "18.5 kg",
             "habilidades": ["Fuga", "Agallas"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/021-Spearow.png",
             "id": 21,
             "nombre": "Spearow",
             "tipo": ["Normal", "Volador"],
-            "descripción": "Se alimenta de insectos y pequeñas presas. Siempre va en bandada y es muy territorial.",
+            "descripcion": "Se alimenta de insectos y pequeñas presas. Siempre va en bandada y es muy territorial.",
             "altura": "0.3 m",
             "peso": "2.0 kg",
             "habilidades": ["Vista lince", "Entusiasmo"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/022-Fearow.png",
             "id": 22,
             "nombre": "Fearow",
             "tipo": ["Normal", "Volador"],
-            "descripción": "Cuando ve a su presa, vuela en círculos por el cielo y la acecha. A continuación, se lanza en picado para atraparla.",
+            "descripcion": "Cuando ve a su presa, vuela en círculos por el cielo y la acecha. A continuacion, se lanza en picado para atraparla.",
             "altura": "1.2 m",
             "peso": "38.0 kg",
             "habilidades": ["Vista lince", "Entusiasmo"],
-            "generación": 1
+            "generacion": 1
         },
         {
         "imagen": "assets/Pokemon-Images-001-151/023-Ekans.png",
         "id": 23,
         "nombre": "Ekans",
         "tipo": ["Veneno"],
-        "descripción": "Mueve todo el cuerpo con flexibilidad para intimidar al enemigo. Vive en zonas de montaña.",
+        "descripcion": "Mueve todo el cuerpo con flexibilidad para intimidar al enemigo. Vive en zonas de montaña.",
         "altura": "2.0 m",
         "peso": "6.9 kg",
-        "habilidades": ["Intimidación", "Mudar piel"],
-        "generación": 1
+        "habilidades": ["Intimidacion", "Mudar piel"],
+        "generacion": 1
         },
         {
         "imagen": "assets/Pokemon-Images-001-151/024-Arbok.png",
         "id": 24,
         "nombre": "Arbok",
         "tipo": ["Veneno"],
-        "descripción": "El patrón que tiene en la capucha varía según el lugar donde vive. Si se siente amenazado, puede inflarla.",
+        "descripcion": "El patron que tiene en la capucha varía según el lugar donde vive. Si se siente amenazado, puede inflarla.",
         "altura": "3.5 m",
         "peso": "65.0 kg",
-        "habilidades": ["Intimidación", "Mudar piel"],
-        "generación": 1
+        "habilidades": ["Intimidacion", "Mudar piel"],
+        "generacion": 1
         },
         {
         "imagen": "assets/Pokemon-Images-001-151/025-Pikachu.png",
         "id": 25,
         "nombre": "Pikachu",
         "tipo": ["Eléctrico"],
-        "descripción": "Cuando encuentra algo que le llama la atención, lo señala y lo sobresalta con pequeñas descargas.",
+        "descripcion": "Cuando encuentra algo que le llama la atencion, lo señala y lo sobresalta con pequeñas descargas.",
         "altura": "0.4 m",
         "peso": "6.0 kg",
         "habilidades": ["Electrizante", "Estática"],
-        "generación": 1
+        "generacion": 1
         },
         {
         "imagen": "assets/Pokemon-Images-001-151/026-Raichu.png",
         "id": 26,
         "nombre": "Raichu",
         "tipo": ["Eléctrico"],
-        "descripción": "Su cola tiene una carga eléctrica que le permite disparar rayos si está en peligro.",
+        "descripcion": "Su cola tiene una carga eléctrica que le permite disparar rayos si está en peligro.",
         "altura": "0.8 m",
         "peso": "30.0 kg",
         "habilidades": ["Electrizante", "Pararrayos"],
-        "generación": 1
+        "generacion": 1
         },
         {
         "imagen": "assets/Pokemon-Images-001-151/027-Sandshrew.png",
         "id": 27,
         "nombre": "Sandshrew",
         "tipo": ["Tierra"],
-        "descripción": "Se entierra en la arena para protegerse de sus enemigos. Sus garras son muy afiladas.",
+        "descripcion": "Se entierra en la arena para protegerse de sus enemigos. Sus garras son muy afiladas.",
         "altura": "0.6 m",
         "peso": "12.0 kg",
         "habilidades": ["Velo arena", "Ímpetu arena"],
-        "generación": 1
+        "generacion": 1
         },
         {
         "imagen": "assets/Pokemon-Images-001-151/028-Sandslash.png",
         "id": 28,
         "nombre": "Sandslash",
         "tipo": ["Tierra"],
-        "descripción": "Cuando se enrolla en una bola, puede rodar colina abajo a gran velocidad y esquivar los obstáculos que encuentra.",
+        "descripcion": "Cuando se enrolla en una bola, puede rodar colina abajo a gran velocidad y esquivar los obstáculos que encuentra.",
         "altura": "1.0 m",
         "peso": "29.5 kg",
         "habilidades": ["Velo arena", "Ímpetu arena"],
-        "generación": 1
+        "generacion": 1
         },
         {
         "imagen": "assets/Pokemon-Images-001-151/029-Nidoran♀.png",
         "id": 29,
         "nombre": "Nidoran♀",
         "tipo": ["Veneno"],
-        "descripción": "Aunque su pequeño cuerno no es muy afilado, le gusta topar con cosas.",
+        "descripcion": "Aunque su pequeño cuerno no es muy afilado, le gusta topar con cosas.",
         "altura": "0.4 m",
         "peso": "7.0 kg",
-        "habilidades": ["Punto tóxico", "Rivalidad"],
-        "generación": 1
+        "habilidades": ["Punto toxico", "Rivalidad"],
+        "generacion": 1
         },
         {
         "imagen": "assets/Pokemon-Images-001-151/030-Nidorina.png",
         "id": 30,
         "nombre": "Nidorina",
         "tipo": ["Veneno"],
-        "descripción": "Se dice que cada uno de sus colmillos es tan venenoso como el aguijón de una abeja.",
+        "descripcion": "Se dice que cada uno de sus colmillos es tan venenoso como el aguijon de una abeja.",
         "altura": "0.8 m",
         "peso": "20.0 kg",
-        "habilidades": ["Punto tóxico", "Rivalidad"],
-        "generación": 1
+        "habilidades": ["Punto toxico", "Rivalidad"],
+        "generacion": 1
         },
         {
         "imagen": "assets/Pokemon-Images-001-151/031-Nidoqueen.png",
         "id": 31,
         "nombre": "Nidoqueen",
         "tipo": ["Veneno", "Tierra"],
-        "descripción": "Se cree que cuando se enfada, la energía volcánica que lleva en el interior le hace arder.",
+        "descripcion": "Se cree que cuando se enfada, la energía volcánica que lleva en el interior le hace arder.",
         "altura": "1.3 m",
         "peso": "60.0 kg",
-        "habilidades": ["Punto tóxico", "Rivalidad"],
-        "generación": 1
+        "habilidades": ["Punto toxico", "Rivalidad"],
+        "generacion": 1
         },
         {
         "imagen": "assets/Pokemon-Images-001-151/032-Nidoran♂.png",
         "id": 32,
         "nombre": "Nidoran♂",
         "tipo": ["Veneno"],
-        "descripción": "Le gusta pelear. Vive en praderas con abundancia de agua y hierba.",
+        "descripcion": "Le gusta pelear. Vive en praderas con abundancia de agua y hierba.",
         "altura": "0.5 m",
         "peso": "9.0 kg",
-        "habilidades": ["Punto tóxico", "Rivalidad"],
-        "generación": 1
+        "habilidades": ["Punto toxico", "Rivalidad"],
+        "generacion": 1
         },
         {
         "imagen": "assets/Pokemon-Images-001-151/033-Nidorino.png",
         "id": 33,
         "nombre": "Nidorino",
         "tipo": ["Veneno"],
-        "descripción": "En combate, levanta el cuerno y lanza todo su peso para embestir al enemigo.",
+        "descripcion": "En combate, levanta el cuerno y lanza todo su peso para embestir al enemigo.",
         "altura": "0.9 m",
         "peso": "19.5 kg",
-        "habilidades": ["Punto tóxico", "Rivalidad"],
-        "generación": 1
+        "habilidades": ["Punto toxico", "Rivalidad"],
+        "generacion": 1
         },
         {
         "imagen": "assets/Pokemon-Images-001-151/034-Nidoking.png",
         "id": 34,
         "nombre": "Nidoking",
         "tipo": ["Veneno", "Tierra"],
-        "descripción": "Puede derribar un edificio de un solo golpe. Su cola es tan fuerte como un látigo.",
+        "descripcion": "Puede derribar un edificio de un solo golpe. Su cola es tan fuerte como un látigo.",
         "altura": "1.4 m",
         "peso": "62.0 kg",
-        "habilidades": ["Punto tóxico", "Rivalidad"],
-        "generación": 1
+        "habilidades": ["Punto toxico", "Rivalidad"],
+        "generacion": 1
         },
         {
         "imagen": "assets/Pokemon-Images-001-151/035-Clefairy.png",
         "id": 35,
         "nombre": "Clefairy",
         "tipo": ["Hada"],
-        "descripción": "Aparece de noche para robarle los objetos brillantes a la gente. Es muy dócil y le gusta la luna.",
+        "descripcion": "Aparece de noche para robarle los objetos brillantes a la gente. Es muy docil y le gusta la luna.",
         "altura": "0.6 m",
         "peso": "7.5 kg",
         "habilidades": ["Ritmo propio", "Entusiasmo"],
-        "generación": 1
+        "generacion": 1
         },
         {
         "imagen": "assets/Pokemon-Images-001-151/036-Clefable.png",
         "id": 36,
         "nombre": "Clefable",
         "tipo": ["Hada"],
-        "descripción": "Se dice que aparece para conceder los deseos que le pidan. Sus orejas son muy sensibles.",
+        "descripcion": "Se dice que aparece para conceder los deseos que le pidan. Sus orejas son muy sensibles.",
         "altura": "1.3 m",
         "peso": "40.0 kg",
         "habilidades": ["Ritmo propio", "Entusiasmo"],
-        "generación": 1
+        "generacion": 1
         },
         {
         "imagen": "assets/Pokemon-Images-001-151/037-Vulpix.png",
         "id": 37,
         "nombre": "Vulpix",
         "tipo": ["Fuego"],
-        "descripción": "Vive en las laderas de montañas volcánicas. Si no se encuentra bien, la llama que arde en su cola se apaga.",
+        "descripcion": "Vive en las laderas de montañas volcánicas. Si no se encuentra bien, la llama que arde en su cola se apaga.",
         "altura": "0.6 m",
         "peso": "9.9 kg",
         "habilidades": ["Absorber fuego", "Manto frío"],
-        "generación": 1
+        "generacion": 1
         },
         {
         "imagen": "assets/Pokemon-Images-001-151/038-Ninetales.png",
         "id": 38,
         "nombre": "Ninetales",
         "tipo": ["Fuego"],
-        "descripción": "Su inteligencia es tan elevada que se dice que guarda la sabiduría de 1,000 años.",
+        "descripcion": "Su inteligencia es tan elevada que se dice que guarda la sabiduría de 1,000 años.",
         "altura": "1.1 m",
         "peso": "19.9 kg",
         "habilidades": ["Absorber fuego", "Manto frío"],
-        "generación": 1
+        "generacion": 1
         },
         {
         "imagen": "assets/Pokemon-Images-001-151/039-Jigglypuff.png",
         "id": 39,
         "nombre": "Jigglypuff",
         "tipo": ["Normal", "Hada"],
-        "descripción": "Canta una canción de cuna para inducir al sueño. A los que se quedan dormidos les pinta la cara con una marca.",
+        "descripcion": "Canta una cancion de cuna para inducir al sueño. A los que se quedan dormidos les pinta la cara con una marca.",
         "altura": "0.5 m",
         "peso": "5.5 kg",
         "habilidades": ["Ritmo propio", "Cacheo"],
-        "generación": 1
+        "generacion": 1
         },
         {
         "imagen": "assets/Pokemon-Images-001-151/040-Wigglytuff.png",
         "id": 40,
         "nombre": "Wigglytuff",
         "tipo": ["Normal", "Hada"],
-        "descripción": "Tiene una voz muy potente y puede ser escuchado desde más de un kilómetro de distancia. Canta sin parar durante todo el día.",
+        "descripcion": "Tiene una voz muy potente y puede ser escuchado desde más de un kilometro de distancia. Canta sin parar durante todo el día.",
         "altura": "1.0 m",
         "peso": "12.0 kg",
         "habilidades": ["Ritmo propio", "Cacheo"],
-        "generación": 1
+        "generacion": 1
         },
         {
         "imagen": "assets/Pokemon-Images-001-151/041-Zubat.png",
         "id": 41,
         "nombre": "Zubat",
         "tipo": ["Veneno", "Volador"],
-        "descripción": "Se orienta emitiendo ultrasonidos. El eco le permite saber si hay obstáculos en su entorno.",
+        "descripcion": "Se orienta emitiendo ultrasonidos. El eco le permite saber si hay obstáculos en su entorno.",
         "altura": "0.8 m",
         "peso": "7.5 kg",
         "habilidades": ["Foco interno"],
-        "generación": 1
+        "generacion": 1
         },
         {
         "imagen": "assets/Pokemon-Images-001-151/042-Golbat.png",
         "id": 42,
         "nombre": "Golbat",
         "tipo": ["Veneno", "Volador"],
-        "descripción": "Suele picar la cabeza de sus presas. Su aguijón está lleno de un veneno extremadamente potente.",
+        "descripcion": "Suele picar la cabeza de sus presas. Su aguijon está lleno de un veneno extremadamente potente.",
         "altura": "1.6 m",
         "peso": "55.0 kg",
         "habilidades": ["Foco interno"],
-        "generación": 1
+        "generacion": 1
         },
         {
         "imagen": "assets/Pokemon-Images-001-151/043-Oddish.png",
         "id": 43,
         "nombre": "Oddish",
         "tipo": ["Planta", "Veneno"],
-        "descripción": "Tiene la capacidad de liberar un aroma dulce gracias a las hojas de su cabeza. Este aroma lo utiliza para atraer a sus presas.",
+        "descripcion": "Tiene la capacidad de liberar un aroma dulce gracias a las hojas de su cabeza. Este aroma lo utiliza para atraer a sus presas.",
         "altura": "0.5 m",
         "peso": "5.4 kg",
         "habilidades": ["Clorofila", "Pot. Bruto"],
-        "generación": 1
+        "generacion": 1
         },
         {
         "imagen": "assets/Pokemon-Images-001-151/044-Gloom.png",
         "id": 44,
         "nombre": "Gloom",
         "tipo": ["Planta", "Veneno"],
-        "descripción": "Desprende un hedor desagradable de su flor. Si se siente alegre, el aroma será más dulce.",
+        "descripcion": "Desprende un hedor desagradable de su flor. Si se siente alegre, el aroma será más dulce.",
         "altura": "0.8 m",
         "peso": "8.6 kg",
         "habilidades": ["Clorofila", "Pot. Bruto"],
-        "generación": 1
+        "generacion": 1
         },
         {
         "imagen": "assets/Pokemon-Images-001-151/045-Vileplume.png",
         "id": 45,
         "nombre": "Vileplume",
         "tipo": ["Planta", "Veneno"],
-        "descripción": "Tiene un polen muy fino y pegajoso que causa estornudos y alergias si se inhala.",
+        "descripcion": "Tiene un polen muy fino y pegajoso que causa estornudos y alergias si se inhala.",
         "altura": "1.2 m",
         "peso": "18.6 kg",
         "habilidades": ["Clorofila", "Pot. Bruto"],
-        "generación": 1
+        "generacion": 1
         },
         {
         "imagen": "assets/Pokemon-Images-001-151/046-Paras.png",
         "id": 46,
         "nombre": "Paras",
         "tipo": ["Bicho", "Planta"],
-        "descripción": "Vive en sitios oscuros y húmedos. Cuando le da el sol, suele escabullirse en la sombra de la hierba alta.",
+        "descripcion": "Vive en sitios oscuros y húmedos. Cuando le da el sol, suele escabullirse en la sombra de la hierba alta.",
         "altura": "0.3 m",
         "peso": "5.4 kg",
         "habilidades": ["Cuerpo llama", "Compiescolta"],
-        "generación": 1
+        "generacion": 1
         },
         {
         "imagen": "assets/Pokemon-Images-001-151/047-Parasect.png",
         "id": 47,
         "nombre": "Parasect",
         "tipo": ["Bicho", "Planta"],
-        "descripción": "El hongo que le crece en la espalda lo controla. Si se le quita, este Pokémon morirá.",
+        "descripcion": "El hongo que le crece en la espalda lo controla. Si se le quita, este Pokémon morirá.",
         "altura": "1.0 m",
         "peso": "29.5 kg",
         "habilidades": ["Cuerpo llama", "Compiescolta"],
-        "generación": 1
+        "generacion": 1
         },
         {
         "imagen": "assets/Pokemon-Images-001-151/048-Venonat.png",
         "id": 48,
         "nombre": "Venonat",
         "tipo": ["Bicho", "Veneno"],
-        "descripción": "Los ojos compuestos de Venonat son muy sensibles a la luz. Incluso la luz tenue puede dejarlo ciego.",
+        "descripcion": "Los ojos compuestos de Venonat son muy sensibles a la luz. Incluso la luz tenue puede dejarlo ciego.",
         "altura": "1.0 m",
         "peso": "30.0 kg",
         "habilidades": ["Ojo compuesto", "Fuga"],
-        "generación": 1
+        "generacion": 1
         },
         {
         "imagen": "assets/Pokemon-Images-001-151/049-Venomoth.png",
         "id": 49,
         "nombre": "Venomoth",
         "tipo": ["Bicho", "Veneno"],
-        "descripción": "Los polvos de las escamas de Venomoth son venenosos. Los esparce por el aire al batir sus alas.",
+        "descripcion": "Los polvos de las escamas de Venomoth son venenosos. Los esparce por el aire al batir sus alas.",
         "altura": "1.5 m",
         "peso": "12.5 kg",
         "habilidades": ["Ojo compuesto", "Escama polvo"],
-        "generación": 1
+        "generacion": 1
         },
         {
         "imagen": "assets/Pokemon-Images-001-151/050-Diglett.png",
         "id": 50,
         "nombre": "Diglett",
         "tipo": ["Tierra"],
-        "descripción": "Es muy dócil y vive la mayor parte del tiempo bajo tierra. Si se expone a la luz del sol, le salen manchas.",
+        "descripcion": "Es muy docil y vive la mayor parte del tiempo bajo tierra. Si se expone a la luz del sol, le salen manchas.",
         "altura": "0.2 m",
         "peso": "0.8 kg",
         "habilidades": ["Velo arena", "Ímpetu arena"],
-        "generación": 1
+        "generacion": 1
         },{
         "imagen": "assets/Pokemon-Images-001-151/050-Diglett.png",
         "id": 50,
         "nombre": "Diglett",
         "tipo": ["Tierra"],
-        "descripción": "Es muy dócil y vive la mayor parte del tiempo bajo tierra. Si se expone a la luz del sol, le salen manchas.",
+        "descripcion": "Es muy docil y vive la mayor parte del tiempo bajo tierra. Si se expone a la luz del sol, le salen manchas.",
         "altura": "0.2 m",
         "peso": "0.8 kg",
         "habilidades": ["Velo arena", "Ímpetu arena"],
-        "generación": 1
+        "generacion": 1
         },
         {
         "imagen": "assets/Pokemon-Images-001-151/051-Dugtrio.png",
         "id": 51,
         "nombre": "Dugtrio",
         "tipo": ["Tierra"],
-        "descripción": "Suele vivir en desiertos, pero si se ven campos verdes, suele ser señal de que hay una mina de carbón en el subsuelo.",
+        "descripcion": "Suele vivir en desiertos, pero si se ven campos verdes, suele ser señal de que hay una mina de carbon en el subsuelo.",
         "altura": "0.7 m",
         "peso": "33.3 kg",
         "habilidades": ["Velo arena", "Ímpetu arena"],
-        "generación": 1
+        "generacion": 1
         },
         {
         "imagen": "assets/Pokemon-Images-001-151/052-Meowth.png",
         "id": 52,
         "nombre": "Meowth",
         "tipo": ["Normal"],
-        "descripción": "Adora las cosas redondas y brillantes. Se las lleva a su guarida de forma secreta.",
+        "descripcion": "Adora las cosas redondas y brillantes. Se las lleva a su guarida de forma secreta.",
         "altura": "0.4 m",
         "peso": "4.2 kg",
         "habilidades": ["Recogida", "Tumbos"],
-        "generación": 1
+        "generacion": 1
         },
         {
         "imagen": "assets/Pokemon-Images-001-151/053-Persian.png",
         "id": 53,
         "nombre": "Persian",
         "tipo": ["Normal"],
-        "descripción": "Es popular por su elegancia. Es difícil verlo en zonas urbanas.",
+        "descripcion": "Es popular por su elegancia. Es difícil verlo en zonas urbanas.",
         "altura": "1.0 m",
         "peso": "32.0 kg",
         "habilidades": ["Fuga", "Ritmo propio"],
-        "generación": 1
+        "generacion": 1
         },
         {
         "imagen": "assets/Pokemon-Images-001-151/054-Psyduck.png",
         "id": 54,
         "nombre": "Psyduck",
         "tipo": ["Agua"],
-        "descripción": "Cuando le duele la cabeza, libera energía psíquica descontrolada. Por eso siempre tiene dolor de cabeza.",
+        "descripcion": "Cuando le duele la cabeza, libera energía psíquica descontrolada. Por eso siempre tiene dolor de cabeza.",
         "altura": "0.8 m",
         "peso": "19.6 kg",
-        "habilidades": ["Despiste", "Hidratación"],
-        "generación": 1
+        "habilidades": ["Despiste", "Hidratacion"],
+        "generacion": 1
         },
         {
         "imagen": "assets/Pokemon-Images-001-151/055-Golduck.png",
         "id": 55,
         "nombre": "Golduck",
         "tipo": ["Agua"],
-        "descripción": "A veces, cuando duerme, parece que está usando la telequinesis para mantenerse en el aire.",
+        "descripcion": "A veces, cuando duerme, parece que está usando la telequinesis para mantenerse en el aire.",
         "altura": "1.7 m",
         "peso": "76.6 kg",
-        "habilidades": ["Despiste", "Hidratación"],
-        "generación": 1
+        "habilidades": ["Despiste", "Hidratacion"],
+        "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/056-Mankey.png",
             "id": 56,
             "nombre": "Mankey",
             "tipo": ["Lucha"],
-            "descripción": "Es muy rápido y furioso. Crecen sus uñas y colmillos con rapidez y le gusta arañar y morder.",
+            "descripcion": "Es muy rápido y furioso. Crecen sus uñas y colmillos con rapidez y le gusta arañar y morder.",
             "altura": "0.5 m",
             "peso": "28.0 kg",
             "habilidades": ["Ímpetu", "Desfase"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/057-Primeape.png",
             "id": 57,
             "nombre": "Primeape",
             "tipo": ["Lucha"],
-            "descripción": "Es muy valiente y rápido. Suele enfadarse por cualquier cosa y empieza a golpear con los puños.",
+            "descripcion": "Es muy valiente y rápido. Suele enfadarse por cualquier cosa y empieza a golpear con los puños.",
             "altura": "1.0 m",
             "peso": "32.0 kg",
             "habilidades": ["Ímpetu", "Desfase"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/058-Growlithe.png",
             "id": 58,
             "nombre": "Growlithe",
             "tipo": ["Fuego"],
-            "descripción": "Es muy fiel a su entrenador. Siempre está vigilando a su alrededor por si aparece algún enemigo.",
+            "descripcion": "Es muy fiel a su entrenador. Siempre está vigilando a su alrededor por si aparece algún enemigo.",
             "altura": "0.7 m",
             "peso": "19.0 kg",
-            "habilidades": ["Intimidación", "Absorber fuego"],
-            "generación": 1
+            "habilidades": ["Intimidacion", "Absorber fuego"],
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/059-Arcanine.png",
             "id": 59,
             "nombre": "Arcanine",
             "tipo": ["Fuego"],
-            "descripción": "Es conocido por su velocidad. Dicen que corre a la increíble velocidad de 100 km/h.",
+            "descripcion": "Es conocido por su velocidad. Dicen que corre a la increíble velocidad de 100 km/h.",
             "altura": "1.9 m",
             "peso": "155.0 kg",
-            "habilidades": ["Intimidación", "Absorber fuego"],
-            "generación": 1
+            "habilidades": ["Intimidacion", "Absorber fuego"],
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/060-Poliwag.png",
             "id": 60,
             "nombre": "Poliwag",
             "tipo": ["Agua"],
-            "descripción": "Su piel es muy fina. Si sale fuera del agua, se seca y le causa mucho dolor.",
+            "descripcion": "Su piel es muy fina. Si sale fuera del agua, se seca y le causa mucho dolor.",
             "altura": "0.6 m",
             "peso": "12.4 kg",
             "habilidades": ["Absor. agua", "Humedad"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/061-Poliwhirl.png",
             "id": 61,
             "nombre": "Poliwhirl",
             "tipo": ["Agua"],
-            "descripción": "Si la esfera roja de su abdomen se le hincha mucho, es señal de que va a llover.",
+            "descripcion": "Si la esfera roja de su abdomen se le hincha mucho, es señal de que va a llover.",
             "altura": "1.0 m",
             "peso": "20.0 kg",
             "habilidades": ["Absor. agua", "Humedad"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/062-Poliwrath.png",
             "id": 62,
             "nombre": "Poliwrath",
             "tipo": ["Agua", "Lucha"],
-            "descripción": "Está especializado en combates cuerpo a cuerpo. Es muy bueno nadando y luchando bajo el agua.",
+            "descripcion": "Está especializado en combates cuerpo a cuerpo. Es muy bueno nadando y luchando bajo el agua.",
             "altura": "1.3 m",
             "peso": "54.0 kg",
             "habilidades": ["Absor. agua", "Humedad"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/063-Abra.png",
             "id": 63,
             "nombre": "Abra",
             "tipo": ["Psíquico"],
-            "descripción": "Puede dormir 18 horas seguidas al día. Le gusta mucho la paz y la tranquilidad.",
+            "descripcion": "Puede dormir 18 horas seguidas al día. Le gusta mucho la paz y la tranquilidad.",
             "altura": "0.9 m",
             "peso": "19.5 kg",
             "habilidades": ["Sincronía", "Foco interno"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/064-Kadabra.png",
             "id": 64,
             "nombre": "Kadabra",
             "tipo": ["Psíquico"],
-            "descripción": "Es muy hábil en telequinesis. Puede doblar cucharas con la mente y hasta hacer que aparezca un objeto que no esté allí.",
+            "descripcion": "Es muy hábil en telequinesis. Puede doblar cucharas con la mente y hasta hacer que aparezca un objeto que no esté allí.",
             "altura": "1.3 m",
             "peso": "56.5 kg",
             "habilidades": ["Sincronía", "Foco interno"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/065-Alakazam.png",
             "id": 65,
             "nombre": "Alakazam",
             "tipo": ["Psíquico"],
-            "descripción": "Se dice que su cerebro se ha desarrollado más que el de un humano. Sus poderes psíquicos son increíblemente fuertes.",
+            "descripcion": "Se dice que su cerebro se ha desarrollado más que el de un humano. Sus poderes psíquicos son increíblemente fuertes.",
             "altura": "1.5 m",
             "peso": "48.0 kg",
             "habilidades": ["Sincronía", "Foco interno"],
-            "generación": 1
+            "generacion": 1
         },
 
         {
@@ -731,231 +730,231 @@
             "id": 66,
             "nombre": "Machop",
             "tipo": ["Lucha"],
-            "descripción": "Su musculatura es muy fuerte. Es capaz de lanzar al aire a su rival con un solo dedo.",
+            "descripcion": "Su musculatura es muy fuerte. Es capaz de lanzar al aire a su rival con un solo dedo.",
             "altura": "0.8 m",
             "peso": "19.5 kg",
             "habilidades": ["Agallas", "Indefenso"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/067-Machoke.png",
             "id": 67,
             "nombre": "Machoke",
             "tipo": ["Lucha"],
-            "descripción": "Cuenta la leyenda que ha desarrollado sus músculos gracias a las duras condiciones de vida en las montañas.",
+            "descripcion": "Cuenta la leyenda que ha desarrollado sus músculos gracias a las duras condiciones de vida en las montañas.",
             "altura": "1.5 m",
             "peso": "70.5 kg",
             "habilidades": ["Agallas", "Indefenso"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/068-Machamp.png",
             "id": 68,
             "nombre": "Machamp",
             "tipo": ["Lucha"],
-            "descripción": "Es tan fuerte que puede derribar un rascacielos de un solo golpe. Pero siempre controla su fuerza.",
+            "descripcion": "Es tan fuerte que puede derribar un rascacielos de un solo golpe. Pero siempre controla su fuerza.",
             "altura": "1.6 m",
             "peso": "130.0 kg",
             "habilidades": ["Agallas", "Indefenso"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/069-Bellsprout.png",
             "id": 69,
             "nombre": "Bellsprout",
             "tipo": ["Planta", "Veneno"],
-            "descripción": "Atrae a sus presas con un aroma dulce y luego las atrapa con sus tentáculos. Si las encuentra dormidas, las devora en el acto.",
+            "descripcion": "Atrae a sus presas con un aroma dulce y luego las atrapa con sus tentáculos. Si las encuentra dormidas, las devora en el acto.",
             "altura": "0.7 m",
             "peso": "4.0 kg",
             "habilidades": ["Clorofila", "Cuerpo maldito"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/070-Weepinbell.png",
             "id": 70,
             "nombre": "Weepinbell",
             "tipo": ["Planta", "Veneno"],
-            "descripción": "Cuando atrapa a su presa con sus tentáculos, la disuelve en ácidos estomacales.",
+            "descripcion": "Cuando atrapa a su presa con sus tentáculos, la disuelve en ácidos estomacales.",
             "altura": "1.0 m",
             "peso": "6.4 kg",
             "habilidades": ["Clorofila", "Cuerpo maldito"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/071-Victreebel.png",
             "id": 71,
             "nombre": "Victreebel",
             "tipo": ["Planta", "Veneno"],
-            "descripción": "Tiene una boca enorme en su hoja. Si la víctima no está alerta, se la traga de un solo bocado.",
+            "descripcion": "Tiene una boca enorme en su hoja. Si la víctima no está alerta, se la traga de un solo bocado.",
             "altura": "1.7 m",
             "peso": "15.5 kg",
             "habilidades": ["Clorofila", "Cuerpo maldito"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/072-Tentacool.png",
             "id": 72,
             "nombre": "Tentacool",
             "tipo": ["Agua", "Veneno"],
-            "descripción": "Desprende un fluido que desintegra el hierro. Puede atravesar una lata de refresco en un segundo.",
+            "descripcion": "Desprende un fluido que desintegra el hierro. Puede atravesar una lata de refresco en un segundo.",
             "altura": "0.9 m",
             "peso": "45.5 kg",
             "habilidades": ["Cuerpo puro", "Nado rápido"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/073-Tentacruel.png",
             "id": 73,
             "nombre": "Tentacruel",
             "tipo": ["Agua", "Veneno"],
-            "descripción": "Este Pokémon es muy inteligente y muy orgulloso. No le gusta ser desafiado.",
+            "descripcion": "Este Pokémon es muy inteligente y muy orgulloso. No le gusta ser desafiado.",
             "altura": "1.6 m",
             "peso": "55.0 kg",
             "habilidades": ["Cuerpo puro", "Nado rápido"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/074-Geodude.png",
             "id": 74,
             "nombre": "Geodude",
             "tipo": ["Roca", "Tierra"],
-            "descripción": "Es muy común encontrarlo en montañas y cuevas. Se junta en grupos con otros de su misma especie.",
+            "descripcion": "Es muy común encontrarlo en montañas y cuevas. Se junta en grupos con otros de su misma especie.",
             "altura": "0.4 m",
             "peso": "20.0 kg",
             "habilidades": ["Cabeza roca", "Rombo defensa"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/075-Graveler.png",
             "id": 75,
             "nombre": "Graveler",
             "tipo": ["Roca", "Tierra"],
-            "descripción": "Rueda por las montañas a velocidades que pueden alcanzar los 90 km/h. Cuidado con tropezarte con uno de ellos.",
+            "descripcion": "Rueda por las montañas a velocidades que pueden alcanzar los 90 km/h. Cuidado con tropezarte con uno de ellos.",
             "altura": "1.0 m",
             "peso": "105.0 kg",
             "habilidades": ["Cabeza roca", "Rombo defensa"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/076-Golem.png",
             "id": 76,
             "nombre": "Golem",
             "tipo": ["Roca", "Tierra"],
-            "descripción": "Es muy duro y pesado. Cuando rueda por una montaña, causa un deslizamiento de tierra.",
+            "descripcion": "Es muy duro y pesado. Cuando rueda por una montaña, causa un deslizamiento de tierra.",
             "altura": "1.4 m",
             "peso": "300.0 kg",
             "habilidades": ["Cabeza roca", "Rombo defensa"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/077-Ponyta.png",
             "id": 77,
             "nombre": "Ponyta",
             "tipo": ["Fuego"],
-            "descripción": "Es muy rápido. Puede correr los 100 metros en 10 segundos. Siempre está ardiendo.",
+            "descripcion": "Es muy rápido. Puede correr los 100 metros en 10 segundos. Siempre está ardiendo.",
             "altura": "1.0 m",
             "peso": "30.0 kg",
             "habilidades": ["Fuga", "Absorber fuego"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/078-Rapidash.png",
             "id": 78,
             "nombre": "Rapidash",
             "tipo": ["Fuego"],
-            "descripción": "Es conocido por su velocidad. Al galope, su melena arde con llamas.",
+            "descripcion": "Es conocido por su velocidad. Al galope, su melena arde con llamas.",
             "altura": "1.7 m",
             "peso": "95.0 kg",
             "habilidades": ["Fuga", "Absorber fuego"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/079-Slowpoke.png",
             "id": 79,
             "nombre": "Slowpoke",
             "tipo": ["Agua", "Psíquico"],
-            "descripción": "No le importa que le arranquen la cola. Este Pokémon vive despreocupado en el agua.",
+            "descripcion": "No le importa que le arranquen la cola. Este Pokémon vive despreocupado en el agua.",
             "altura": "1.2 m",
             "peso": "36.0 kg",
             "habilidades": ["Despiste", "Nado rápido"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/080-Slowbro.png",
             "id": 80,
             "nombre": "Slowbro",
             "tipo": ["Agua", "Psíquico"],
-            "descripción": "El musgo que crece en su espalda es un alga marina que vive de los restos de comida que Slowbro desecha.",
+            "descripcion": "El musgo que crece en su espalda es un alga marina que vive de los restos de comida que Slowbro desecha.",
             "altura": "1.6 m",
             "peso": "78.5 kg",
             "habilidades": ["Despiste", "Nado rápido"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/081-Magnemite.png",
             "id": 81,
             "nombre": "Magnemite",
             "tipo": ["Eléctrico", "Acero"],
-            "descripción": "Es capaz de desafiar las leyes de la gravedad. Puede permanecer suspendido en el aire gracias a su carga magnética.",
+            "descripcion": "Es capaz de desafiar las leyes de la gravedad. Puede permanecer suspendido en el aire gracias a su carga magnética.",
             "altura": "0.3 m",
             "peso": "6.0 kg",
             "habilidades": ["Imán", "Magnetismo"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/082-Magneton.png",
             "id": 82,
             "nombre": "Magneton",
             "tipo": ["Eléctrico", "Acero"],
-            "descripción": "Tiene tres imanes en el cuerpo. Al agruparse, estos imanes generan una fuerza magnética tremenda.",
+            "descripcion": "Tiene tres imanes en el cuerpo. Al agruparse, estos imanes generan una fuerza magnética tremenda.",
             "altura": "1.0 m",
             "peso": "60.0 kg",
             "habilidades": ["Imán", "Magnetismo"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/083-Farfetch'd.png",
             "id": 83,
             "nombre": "Farfetch'd",
             "tipo": ["Normal", "Volador"],
-            "descripción": "Es muy raro verlo en libertad. Siempre lleva una ramita de apio en la boca.",
+            "descripcion": "Es muy raro verlo en libertad. Siempre lleva una ramita de apio en la boca.",
             "altura": "0.8 m",
             "peso": "15.0 kg",
-            "habilidades": ["Recolección", "Serénate"],
-            "generación": 1
+            "habilidades": ["Recoleccion", "Serénate"],
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/084-Doduo.png",
             "id": 84,
             "nombre": "Doduo",
             "tipo": ["Normal", "Volador"],
-            "descripción": "Prefiere vivir en zonas de praderas donde puede correr libremente. Tiene muy mala habilidad para volar.",
+            "descripcion": "Prefiere vivir en zonas de praderas donde puede correr libremente. Tiene muy mala habilidad para volar.",
             "altura": "1.4 m",
             "peso": "39.2 kg",
             "habilidades": ["Fuga", "Temerario"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/085-Dodrio.png",
             "id": 85,
             "nombre": "Dodrio",
             "tipo": ["Normal", "Volador"],
-            "descripción": "Es muy veloz y ruidoso. Hace falta valor para enfrentarse a este Pokémon en un combate cuerpo a cuerpo.",
+            "descripcion": "Es muy veloz y ruidoso. Hace falta valor para enfrentarse a este Pokémon en un combate cuerpo a cuerpo.",
             "altura": "1.8 m",
             "peso": "85.2 kg",
             "habilidades": ["Fuga", "Temerario"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/086-Seel.png",
             "id": 86,
             "nombre": "Seel",
             "tipo": ["Agua"],
-            "descripción": "Le encanta nadar y vive en el mar. En invierno, cuando los mares se congelan, busca cuevas para dormir.",
+            "descripcion": "Le encanta nadar y vive en el mar. En invierno, cuando los mares se congelan, busca cuevas para dormir.",
             "altura": "1.1 m",
             "peso": "90.0 kg",
-            "habilidades": ["Absorber agua", "Hidratación"],
-            "generación": 1
+            "habilidades": ["Absorber agua", "Hidratacion"],
+            "generacion": 1
         },
     
         {
@@ -963,121 +962,121 @@
             "id": 87,
             "nombre": "Dewgong",
             "tipo": ["Agua", "Hielo"],
-            "descripción": "Este Pokémon se alimenta de plancton. Vive en el mar abierto, pero regresa a la costa para dormir.",
+            "descripcion": "Este Pokémon se alimenta de plancton. Vive en el mar abierto, pero regresa a la costa para dormir.",
             "altura": "1.7 m",
             "peso": "120.0 kg",
-            "habilidades": ["Absorber agua", "Hidratación"],
-            "generación": 1
+            "habilidades": ["Absorber agua", "Hidratacion"],
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/088-Grimer.png",
             "id": 88,
             "nombre": "Grimer",
             "tipo": ["Veneno"],
-            "descripción": "Se cree que aparece en lugares donde se generan aguas residuales. Se alimenta de basura que flota en el agua.",
+            "descripcion": "Se cree que aparece en lugares donde se generan aguas residuales. Se alimenta de basura que flota en el agua.",
             "altura": "0.9 m",
             "peso": "30.0 kg",
             "habilidades": ["Velo sucio", "Hedor"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/089-Muk.png",
             "id": 89,
             "nombre": "Muk",
             "tipo": ["Veneno"],
-            "descripción": "Este Pokémon está compuesto de una sustancia tóxica. Se cree que las mareas rojas son obra suya.",
+            "descripcion": "Este Pokémon está compuesto de una sustancia toxica. Se cree que las mareas rojas son obra suya.",
             "altura": "1.2 m",
             "peso": "30.0 kg",
             "habilidades": ["Velo sucio", "Hedor"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/090-Shellder.png",
             "id": 90,
             "nombre": "Shellder",
             "tipo": ["Agua"],
-            "descripción": "Su concha es muy dura. Es inmune a los ataques de Pokémon de tipo Normal y Volador.",
+            "descripcion": "Su concha es muy dura. Es inmune a los ataques de Pokémon de tipo Normal y Volador.",
             "altura": "0.3 m",
             "peso": "4.0 kg",
-            "habilidades": ["Caparazón", "Velo"],
-            "generación": 1
+            "habilidades": ["Caparazon", "Velo"],
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/091-Cloyster.png",
             "id": 91,
             "nombre": "Cloyster",
             "tipo": ["Agua", "Hielo"],
-            "descripción": "Su concha se abre y cierra según las fases de la luna. Si está cerrada, es prácticamente invulnerable.",
+            "descripcion": "Su concha se abre y cierra según las fases de la luna. Si está cerrada, es prácticamente invulnerable.",
             "altura": "1.5 m",
             "peso": "132.5 kg",
-            "habilidades": ["Caparazón", "Velo"],
-            "generación": 1
+            "habilidades": ["Caparazon", "Velo"],
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/092-Gastly.png",
             "id": 92,
             "nombre": "Gastly",
             "tipo": ["Fantasma", "Veneno"],
-            "descripción": "Si se mira su cuerpo por el lado que no tiene gases, parece una sombra. No hay que inhalar esos gases.",
+            "descripcion": "Si se mira su cuerpo por el lado que no tiene gases, parece una sombra. No hay que inhalar esos gases.",
             "altura": "1.3 m",
             "peso": "0.1 kg",
-            "habilidades": ["Levitación"],
-            "generación": 1
+            "habilidades": ["Levitacion"],
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/093-Haunter.png",
             "id": 93,
             "nombre": "Haunter",
             "tipo": ["Fantasma", "Veneno"],
-            "descripción": "Es muy sigiloso. Se le aparece a la gente por la noche y le chupa el alma.",
+            "descripcion": "Es muy sigiloso. Se le aparece a la gente por la noche y le chupa el alma.",
             "altura": "1.6 m",
             "peso": "0.1 kg",
-            "habilidades": ["Levitación"],
-            "generación": 1
+            "habilidades": ["Levitacion"],
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/094-Gengar.png",
             "id": 94,
             "nombre": "Gengar",
             "tipo": ["Fantasma", "Veneno"],
-            "descripción": "Le encanta esconderse en la oscuridad. Es el favorito de los tramposos.",
+            "descripcion": "Le encanta esconderse en la oscuridad. Es el favorito de los tramposos.",
             "altura": "1.5 m",
             "peso": "40.5 kg",
-            "habilidades": ["Levitación"],
-            "generación": 1
+            "habilidades": ["Levitacion"],
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/095-Onix.png",
             "id": 95,
             "nombre": "Onix",
             "tipo": ["Roca", "Tierra"],
-            "descripción": "Es una serpiente de roca que habita en cuevas subterráneas. Es muy larga, pero también muy frágil.",
+            "descripcion": "Es una serpiente de roca que habita en cuevas subterráneas. Es muy larga, pero también muy frágil.",
             "altura": "8.8 m",
             "peso": "210.0 kg",
             "habilidades": ["Cabeza roca", "Robustez"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/096-Drowzee.png",
             "id": 96,
             "nombre": "Drowzee",
             "tipo": ["Psíquico"],
-            "descripción": "Si ve que alguien está durmiendo, lo hipnotiza y le roba los sueños. Sólo se despierta para comer.",
+            "descripcion": "Si ve que alguien está durmiendo, lo hipnotiza y le roba los sueños. Solo se despierta para comer.",
             "altura": "1.0 m",
             "peso": "32.4 kg",
             "habilidades": ["Insomnio", "Cura insomnio"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/097-Hypno.png",
             "id": 97,
             "nombre": "Hypno",
             "tipo": ["Psíquico"],
-            "descripción": "Se dice que tiene el poder de hipnotizar hasta a las personas. Duerme en busca de sueños para comer.",
+            "descripcion": "Se dice que tiene el poder de hipnotizar hasta a las personas. Duerme en busca de sueños para comer.",
             "altura": "1.6 m",
             "peso": "75.6 kg",
             "habilidades": ["Insomnio", "Cura insomnio"],
-            "generación": 1
+            "generacion": 1
         },
     
         {
@@ -1085,330 +1084,330 @@
             "id": 98,
             "nombre": "Krabby",
             "tipo": ["Agua"],
-            "descripción": "Es muy agresivo. Cuando está enfadado, ataca con las tenazas y suelta burbujas de vapor.",
+            "descripcion": "Es muy agresivo. Cuando está enfadado, ataca con las tenazas y suelta burbujas de vapor.",
             "altura": "0.4 m",
             "peso": "6.5 kg",
             "habilidades": ["Nado rápido", "Potencia"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/099-Kingler.png",
             "id": 99,
             "nombre": "Kingler",
             "tipo": ["Agua"],
-            "descripción": "Se cree que vive en cuevas submarinas que se forman al estrellarse los continentes.",
+            "descripcion": "Se cree que vive en cuevas submarinas que se forman al estrellarse los continentes.",
             "altura": "1.3 m",
             "peso": "60.0 kg",
             "habilidades": ["Nado rápido", "Potencia"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/100-Voltorb.png",
             "id": 100,
             "nombre": "Voltorb",
             "tipo": ["Eléctrico"],
-            "descripción": "Cuando ve un objeto brillante, su cuerpo se carga de electricidad y empieza a temblar.",
+            "descripcion": "Cuando ve un objeto brillante, su cuerpo se carga de electricidad y empieza a temblar.",
             "altura": "0.5 m",
             "peso": "10.4 kg",
-            "habilidades": ["Cabeza hueca", "Autodestrucción"],
-            "generación": 1
+            "habilidades": ["Cabeza hueca", "Autodestruccion"],
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/101-Electrode.png",
             "id": 101,
             "nombre": "Electrode",
             "tipo": ["Eléctrico"],
-            "descripción": "Es muy rápido. Cuando empieza a rodar, no hay forma de detenerlo hasta que se estrelle.",
+            "descripcion": "Es muy rápido. Cuando empieza a rodar, no hay forma de detenerlo hasta que se estrelle.",
             "altura": "1.2 m",
             "peso": "66.6 kg",
-            "habilidades": ["Cabeza hueca", "Autodestrucción"],
-            "generación": 1
+            "habilidades": ["Cabeza hueca", "Autodestruccion"],
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/102-Exeggcute.png",
             "id": 102,
             "nombre": "Exeggcute",
             "tipo": ["Planta", "Psíquico"],
-            "descripción": "Se compone de seis huevos que se entrelazan. Se cree que comunica su dolor a través de señales telepáticas.",
+            "descripcion": "Se compone de seis huevos que se entrelazan. Se cree que comunica su dolor a través de señales telepáticas.",
             "altura": "0.4 m",
             "peso": "2.5 kg",
             "habilidades": ["Clorofila", "Cosecha"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/103-Exeggutor.png",
             "id": 103,
             "nombre": "Exeggutor",
             "tipo": ["Planta", "Psíquico"],
-            "descripción": "Es muy lento debido a su altura. Cuando se inclina demasiado, puede llegar a caerse.",
+            "descripcion": "Es muy lento debido a su altura. Cuando se inclina demasiado, puede llegar a caerse.",
             "altura": "2.0 m",
             "peso": "120.0 kg",
             "habilidades": ["Clorofila", "Cosecha"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/104-Cubone.png",
             "id": 104,
             "nombre": "Cubone",
             "tipo": ["Tierra"],
-            "descripción": "Lleva siempre un cráneo que encontró cuando era un bebé. Hay quien dice que el lamento de su madre al morir le marcó para siempre.",
+            "descripcion": "Lleva siempre un cráneo que encontro cuando era un bebé. Hay quien dice que el lamento de su madre al morir le marco para siempre.",
             "altura": "0.4 m",
             "peso": "6.5 kg",
             "habilidades": ["Cabeza roca", "Pararrayos"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/105-Marowak.png",
             "id": 105,
             "nombre": "Marowak",
             "tipo": ["Tierra"],
-            "descripción": "Lleva un hueso en la mano y otro en la cabeza. Siempre lucha con un hueso en la mano.",
+            "descripcion": "Lleva un hueso en la mano y otro en la cabeza. Siempre lucha con un hueso en la mano.",
             "altura": "1.0 m",
             "peso": "45.0 kg",
             "habilidades": ["Cabeza roca", "Pararrayos"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/106-Hitmonlee.png",
             "id": 106,
             "nombre": "Hitmonlee",
             "tipo": ["Lucha"],
-            "descripción": "Su técnica de lucha es la patada alta. La velocidad y la altura de sus patadas no tienen rival.",
+            "descripcion": "Su técnica de lucha es la patada alta. La velocidad y la altura de sus patadas no tienen rival.",
             "altura": "1.5 m",
             "peso": "49.8 kg",
             "habilidades": ["Flexibilidad", "Indefenso"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/107-Hitmonchan.png",
             "id": 107,
             "nombre": "Hitmonchan",
             "tipo": ["Lucha"],
-            "descripción": "Es capaz de golpear a su rival en menos de un segundo. Siempre lucha con guantes especiales.",
+            "descripcion": "Es capaz de golpear a su rival en menos de un segundo. Siempre lucha con guantes especiales.",
             "altura": "1.4 m",
             "peso": "50.2 kg",
             "habilidades": ["Flexibilidad", "Indefenso"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/108-Lickitung.png",
             "id": 108,
             "nombre": "Lickitung",
             "tipo": ["Normal"],
-            "descripción": "Su lengua tiene más de 1 metro de longitud. La usa para lamer su entorno, sin importar lo sucio que esté.",
+            "descripcion": "Su lengua tiene más de 1 metro de longitud. La usa para lamer su entorno, sin importar lo sucio que esté.",
             "altura": "1.2 m",
             "peso": "65.5 kg",
             "habilidades": ["Fuga", "Rezagado"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/109-Koffing.png",
             "id": 109,
             "nombre": "Koffing",
             "tipo": ["Veneno"],
-            "descripción": "Este Pokémon emite gases venenosos por todo el cuerpo. Se le reconoce por el sonido que produce al inflarse.",
+            "descripcion": "Este Pokémon emite gases venenosos por todo el cuerpo. Se le reconoce por el sonido que produce al inflarse.",
             "altura": "0.6 m",
             "peso": "1.0 kg",
             "habilidades": ["Fuga", "Humo blanco"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/110-Weezing.png",
             "id": 110,
             "nombre": "Weezing",
             "tipo": ["Veneno"],
-            "descripción": "Cuando se siente amenazado, emite un gas tóxico que contamina el aire a su alrededor.",
+            "descripcion": "Cuando se siente amenazado, emite un gas toxico que contamina el aire a su alrededor.",
             "altura": "1.2 m",
             "peso": "9.5 kg",
-            "habilidades": ["Levitación", "Humo blanco"],
-            "generación": 1
+            "habilidades": ["Levitacion", "Humo blanco"],
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/111-Rhyhorn.png",
             "id": 111,
             "nombre": "Rhyhorn",
             "tipo": ["Tierra", "Roca"],
-            "descripción": "Siempre va embistiendo y tumbando todo lo que encuentra por el camino.",
+            "descripcion": "Siempre va embistiendo y tumbando todo lo que encuentra por el camino.",
             "altura": "1.0 m",
             "peso": "115.0 kg",
-            "habilidades": ["Pararrayos", "Roca sólida"],
-            "generación": 1
+            "habilidades": ["Pararrayos", "Roca solida"],
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/112-Rhydon.png",
             "id": 112,
             "nombre": "Rhydon",
             "tipo": ["Tierra", "Roca"],
-            "descripción": "Es muy resistente y puede cargar con grandes pesos sobre su lomo. Se cree que vivía en la tierra hace más de 100 millones de años.",
+            "descripcion": "Es muy resistente y puede cargar con grandes pesos sobre su lomo. Se cree que vivía en la tierra hace más de 100 millones de años.",
             "altura": "1.9 m",
             "peso": "120.0 kg",
-            "habilidades": ["Pararrayos", "Roca sólida"],
-            "generación": 1
+            "habilidades": ["Pararrayos", "Roca solida"],
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/113-Chansey.png",
             "id": 113,
             "nombre": "Chansey",
             "tipo": ["Normal"],
-            "descripción": "Es un Pokémon muy amable. Si encuentra a un entrenador herido, compartirá con él el huevo que lleva en su bolsa.",
+            "descripcion": "Es un Pokémon muy amable. Si encuentra a un entrenador herido, compartirá con él el huevo que lleva en su bolsa.",
             "altura": "1.1 m",
             "peso": "34.6 kg",
             "habilidades": ["Cura natural", "Cura pozo"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/114-Tangela.png",
             "id": 114,
             "nombre": "Tangela",
             "tipo": ["Planta"],
-            "descripción": "Se cree que está compuesto por una masa de algas que viven en el fondo del océano. Ataca a sus enemigos con los tentáculos.",
+            "descripcion": "Se cree que está compuesto por una masa de algas que viven en el fondo del océano. Ataca a sus enemigos con los tentáculos.",
             "altura": "1.0 m",
             "peso": "35.0 kg",
-            "habilidades": ["Clorofila", "Regeneración"],
-            "generación": 1
+            "habilidades": ["Clorofila", "Regeneracion"],
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/115-Kangaskhan.png",
             "id": 115,
             "nombre": "Kangaskhan",
             "tipo": ["Normal"],
-            "descripción": "Si alguien amenaza a su cría, se vuelve muy agresivo. El hábitat de este Pokémon se limita a las llanuras.",
+            "descripcion": "Si alguien amenaza a su cría, se vuelve muy agresivo. El hábitat de este Pokémon se limita a las llanuras.",
             "altura": "2.2 m",
             "peso": "80.0 kg",
             "habilidades": ["Cabeza roca", "Madre amor"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/116-Horsea.png",
             "id": 116,
             "nombre": "Horsea",
             "tipo": ["Agua"],
-            "descripción": "Cuando se esconde en las algas, su color se confunde con el de estas.",
+            "descripcion": "Cuando se esconde en las algas, su color se confunde con el de estas.",
             "altura": "0.4 m",
             "peso": "8.0 kg",
             "habilidades": ["Nado rápido", "Francotirador"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/117-Seadra.png",
             "id": 117,
             "nombre": "Seadra",
             "tipo": ["Agua"],
-            "descripción": "Nada rápidamente por los mares. Se cree que vive en lugares de aguas profundas.",
+            "descripcion": "Nada rápidamente por los mares. Se cree que vive en lugares de aguas profundas.",
             "altura": "1.2 m",
             "peso": "25.0 kg",
             "habilidades": ["Nado rápido", "Francotirador"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/118-Goldeen.png",
             "id": 118,
             "nombre": "Goldeen",
             "tipo": ["Agua"],
-            "descripción": "Es capaz de nadar a velocidades muy altas. Es muy bello y muchas personas lo crían para decorar estanques.",
+            "descripcion": "Es capaz de nadar a velocidades muy altas. Es muy bello y muchas personas lo crían para decorar estanques.",
             "altura": "0.6 m",
             "peso": "15.0 kg",
             "habilidades": ["Nado rápido", "Sacar fuerza"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/119-Seaking.png",
             "id": 119,
             "nombre": "Seaking",
             "tipo": ["Agua"],
-            "descripción": "Siempre está en movimiento. Este Pokémon se alimenta de plancton en los mares abiertos.",
+            "descripcion": "Siempre está en movimiento. Este Pokémon se alimenta de plancton en los mares abiertos.",
             "altura": "1.3 m",
             "peso": "39.0 kg",
             "habilidades": ["Nado rápido", "Sacar fuerza"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/120-Staryu.png",
             "id": 120,
             "nombre": "Staryu",
             "tipo": ["Agua"],
-            "descripción": "Refleja la luz de las estrellas en su cuerpo. Se dice que si le arrancan un brazo, este se regenera.",
+            "descripcion": "Refleja la luz de las estrellas en su cuerpo. Se dice que si le arrancan un brazo, este se regenera.",
             "altura": "0.8 m",
             "peso": "34.5 kg",
             "habilidades": ["Cuerpo puro", "Nado rápido"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/121-Starmie.png",
             "id": 121,
             "nombre": "Starmie",
             "tipo": ["Agua", "Psíquico"],
-            "descripción": "Cuando se le caen los brazos, los regenera inmediatamente. Además, puede brillar en siete colores distintos.",
+            "descripcion": "Cuando se le caen los brazos, los regenera inmediatamente. Además, puede brillar en siete colores distintos.",
             "altura": "1.1 m",
             "peso": "80.0 kg",
             "habilidades": ["Cuerpo puro", "Nado rápido"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/122-Mr._Mime.png",
             "id": 122,
             "nombre": "Mr. Mime",
             "tipo": ["Psíquico", "Hada"],
-            "descripción": "Es muy ágil. Se pone a crear barreras de aire y a caminar por encima de ellas.",
+            "descripcion": "Es muy ágil. Se pone a crear barreras de aire y a caminar por encima de ellas.",
             "altura": "1.3 m",
             "peso": "54.5 kg",
             "habilidades": ["Fuga", "Sebo"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/123-Scyther.png",
             "id": 123,
             "nombre": "Scyther",
             "tipo": ["Bicho", "Volador"],
-            "descripción": "Es un cazador experto que ataca presas con sus afiladas garras. Es tan rápido que es difícil verlo.",
+            "descripcion": "Es un cazador experto que ataca presas con sus afiladas garras. Es tan rápido que es difícil verlo.",
             "altura": "1.5 m",
             "peso": "56.0 kg",
             "habilidades": ["Enjambre", "Experto"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/124-Jynx.png",
             "id": 124,
             "nombre": "Jynx",
             "tipo": ["Hielo", "Psíquico"],
-            "descripción": "Emite señales que solo los Pokémon pueden entender. Comunicarse con ella es muy difícil para los humanos.",
+            "descripcion": "Emite señales que solo los Pokémon pueden entender. Comunicarse con ella es muy difícil para los humanos.",
             "altura": "1.4 m",
             "peso": "40.6 kg",
             "habilidades": ["Despiste", "Sebo"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/125-Electabuzz.png",
             "id": 125,
             "nombre": "Electabuzz",
             "tipo": ["Eléctrico"],
-            "descripción": "Cuando siente el olor de una tormenta eléctrica, libera energía y se carga por completo.",
+            "descripcion": "Cuando siente el olor de una tormenta eléctrica, libera energía y se carga por completo.",
             "altura": "1.1 m",
             "peso": "30.0 kg",
             "habilidades": ["Pararrayos", "Electricidad estática"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/126-Magmar.png",
             "id": 126,
             "nombre": "Magmar",
             "tipo": ["Fuego"],
-            "descripción": "Es de naturaleza muy violenta. Si ve una llama, será incapaz de resistirse a la tentación de quemarla.",
+            "descripcion": "Es de naturaleza muy violenta. Si ve una llama, será incapaz de resistirse a la tentacion de quemarla.",
             "altura": "1.3 m",
             "peso": "44.5 kg",
-            "habilidades": ["Cuerpo llama", "Ignición"],
-            "generación": 1
+            "habilidades": ["Cuerpo llama", "Ignicion"],
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/127-Pinsir.png",
             "id": 127,
             "nombre": "Pinsir",
             "tipo": ["Bicho"],
-            "descripción": "Cuando cierra sus robustas mandíbulas, no hay quien las abra. Si encuentra a un rival, lo atrapa y no lo suelta hasta el final.",
+            "descripcion": "Cuando cierra sus robustas mandíbulas, no hay quien las abra. Si encuentra a un rival, lo atrapa y no lo suelta hasta el final.",
             "altura": "1.5 m",
             "peso": "55.0 kg",
             "habilidades": ["Enjambre", "Experto"],
-            "generación": 1
+            "generacion": 1
     },
     
         {
@@ -1416,265 +1415,264 @@
             "id": 128,
             "nombre": "Tauros",
             "tipo": ["Normal"],
-            "descripción": "Es muy bravo y no deja de embestir a todo lo que se mueve. Se cuenta que tiene 8 corazones.",
+            "descripcion": "Es muy bravo y no deja de embestir a todo lo que se mueve. Se cuenta que tiene 8 corazones.",
             "altura": "1.4 m",
             "peso": "88.4 kg",
-            "habilidades": ["Intimidación", "Aclimatación"],
-            "generación": 1
+            "habilidades": ["Intimidacion", "Aclimatacion"],
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/129-Magikarp.png",
             "id": 129,
             "nombre": "Magikarp",
             "tipo": ["Agua"],
-            "descripción": "Es tan débil que incluso nadar contra la corriente puede con él. Simplemente se deja llevar por la corriente.",
+            "descripcion": "Es tan débil que incluso nadar contra la corriente puede con él. Simplemente se deja llevar por la corriente.",
             "altura": "0.9 m",
             "peso": "10.0 kg",
             "habilidades": ["Nado rápido", "Impulso"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/130-Gyarados.png",
             "id": 130,
             "nombre": "Gyarados",
             "tipo": ["Agua", "Volador"],
-            "descripción": "Si es provocado, se enfurece y arrasa todo a su alrededor. Se cree que la furia lo lleva a crecer sin límite.",
+            "descripcion": "Si es provocado, se enfurece y arrasa todo a su alrededor. Se cree que la furia lo lleva a crecer sin límite.",
             "altura": "6.5 m",
             "peso": "235.0 kg",
-            "habilidades": ["Intimidación", "Potencia"],
-            "generación": 1
+            "habilidades": ["Intimidacion", "Potencia"],
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/131-Lapras.png",
             "id": 131,
             "nombre": "Lapras",
             "tipo": ["Agua", "Hielo"],
-            "descripción": "Es muy inteligente y amable. Se le ha visto muchas veces socorriendo a personas en peligro en el mar.",
+            "descripcion": "Es muy inteligente y amable. Se le ha visto muchas veces socorriendo a personas en peligro en el mar.",
             "altura": "2.5 m",
             "peso": "220.0 kg",
-            "habilidades": ["Absorber agua", "Caparazón grueso"],
-            "generación": 1
+            "habilidades": ["Absorber agua", "Caparazon grueso"],
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/132-Ditto.png",
             "id": 132,
             "nombre": "Ditto",
             "tipo": ["Normal"],
-            "descripción": "Se transforma en cualquier cosa que ve. No obstante, si intenta transformarse en algo basado en memoria, no acierta en los detalles.",
+            "descripcion": "Se transforma en cualquier cosa que ve. No obstante, si intenta transformarse en algo basado en memoria, no acierta en los detalles.",
             "altura": "0.3 m",
             "peso": "4.0 kg",
             "habilidades": ["Flexibilidad", "Imán"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/133-Eevee.png",
             "id": 133,
             "nombre": "Eevee",
             "tipo": ["Normal"],
-            "descripción": "Se adapta a su entorno mudando la forma de su pelaje. Los expertos en Pokémon no logran explicar cómo es posible.",
+            "descripcion": "Se adapta a su entorno mudando la forma de su pelaje. Los expertos en Pokémon no logran explicar como es posible.",
             "altura": "0.3 m",
             "peso": "6.5 kg",
             "habilidades": ["Fuga", "Adaptable"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/134-Vaporeon.png",
             "id": 134,
             "nombre": "Vaporeon",
             "tipo": ["Agua"],
-            "descripción": "Su estructura corporal es similar a la del agua. No hay quien le gane nadando.",
+            "descripcion": "Su estructura corporal es similar a la del agua. No hay quien le gane nadando.",
             "altura": "1.0 m",
             "peso": "29.0 kg",
-            "habilidades": ["Absorber agua", "Hidratación"],
-            "generación": 1
+            "habilidades": ["Absorber agua", "Hidratacion"],
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/135-Jolteon.png",
             "id": 135,
             "nombre": "Jolteon",
             "tipo": ["Eléctrico"],
-            "descripción": "Su pelaje es tan conductor de electricimagead que al pelo se le carga una electricidad estática.",
+            "descripcion": "Su pelaje es tan conductor de electricimagead que al pelo se le carga una electricidad estática.",
             "altura": "0.8 m",
             "peso": "24.5 kg",
             "habilidades": ["Pararrayos", "Absorber electricidad"],
-            "generación": 1
+            "generacion": 1
         },
         {
             "imagen": "assets/Pokemon-Images-001-151/136-Flareon.png",
             "id": 136,
             "nombre": "Flareon",
             "tipo": ["Fuego"],
-            "descripción": "Especialmente activo en la noche, cuando las llamas de su pelo brillan con más fuerza.",
+            "descripcion": "Especialmente activo en la noche, cuando las llamas de su pelo brillan con más fuerza.",
             "altura": "0.9 m",
             "peso": "25.0 kg",
             "habilidades": ["Cuerpo llama", "Gula"],
-            "generación": 1
+            "generacion": 1
 },
     {
         "imagen": "assets/Pokemon-Images-001-151/137-Porygon.png",
         "id": 137,
         "nombre": "Porygon",
         "tipo": ["Normal"],
-        "descripción": "Una vez creado, es capaz de aprender nuevos datos de forma instantánea. No obstante, le falta capacidad para razonar.",
+        "descripcion": "Una vez creado, es capaz de aprender nuevos datos de forma instantánea. No obstante, le falta capacidad para razonar.",
         "altura": "0.8 m",
         "peso": "36.5 kg",
         "habilidades": ["Rastro", "Cálculo final"],
-        "generación": 1
+        "generacion": 1
     },
     {
         "imagen": "assets/Pokemon-Images-001-151/138-Omanyte.png",
         "id": 138,
         "nombre": "Omanyte",
         "tipo": ["Roca", "Agua"],
-        "descripción": "Es muy raro. Solo se han visto unos pocos en el mundo desde que la vida empezó a evolucionar.",
+        "descripcion": "Es muy raro. Solo se han visto unos pocos en el mundo desde que la vida empezo a evolucionar.",
         "altura": "0.4 m",
         "peso": "7.5 kg",
-        "habilidades": ["Caparazón", "Nado rápido"],
-        "generación": 1
+        "habilidades": ["Caparazon", "Nado rápido"],
+        "generacion": 1
     },
     {
         "imagen": "assets/Pokemon-Images-001-151/139-Omastar.png",
         "id": 139,
         "nombre": "Omastar",
         "tipo": ["Roca", "Agua"],
-        "descripción": "Se cree que era el rey de los mares prehistóricos. Alcanzaba una gran velocidad gracias a su concha en forma de espiral.",
+        "descripcion": "Se cree que era el rey de los mares prehistoricos. Alcanzaba una gran velocidad gracias a su concha en forma de espiral.",
         "altura": "1.0 m",
         "peso": "35.0 kg",
-        "habilidades": ["Caparazón", "Nado rápido"],
-        "generación": 1
+        "habilidades": ["Caparazon", "Nado rápido"],
+        "generacion": 1
     },
     {
         "imagen": "assets/Pokemon-Images-001-151/140-Kabuto.png",
         "id": 140,
         "nombre": "Kabuto",
         "tipo": ["Roca", "Agua"],
-        "descripción": "Parece ser que vivió en mares antiguos. Fue descubierto mientras se investigaban fósiles de agua.",
+        "descripcion": "Parece ser que vivio en mares antiguos. Fue descubierto mientras se investigaban fosiles de agua.",
         "altura": "0.5 m",
         "peso": "11.5 kg",
         "habilidades": ["Armadura batalla", "Nado rápido"],
-        "generación": 1
+        "generacion": 1
     },
     {
         "imagen": "assets/Pokemon-Images-001-151/141-Kabutops.png",
         "id": 141,
         "nombre": "Kabutops",
         "tipo": ["Roca", "Agua"],
-        "descripción": "Tenía unas afiladas cuchillas en los brazos. Su velocidad y su agresividad lo convertían en un cazador temible.",
+        "descripcion": "Tenía unas afiladas cuchillas en los brazos. Su velocidad y su agresividad lo convertían en un cazador temible.",
         "altura": "1.3 m",
         "peso": "40.5 kg",
         "habilidades": ["Armadura batalla", "Nado rápido"],
-        "generación": 1
+        "generacion": 1
     },
     {
         "imagen": "assets/Pokemon-Images-001-151/142-Aerodactyl.png",
         "id": 142,
         "nombre": "Aerodactyl",
         "tipo": ["Roca", "Volador"],
-        "descripción": "Un Pokémon alado extinto desde la era de los dinosaurios. Su aterradora aparición es capaz de sembrar el pánico en cualquier lugar.",
+        "descripcion": "Un Pokémon alado extinto desde la era de los dinosaurios. Su aterradora aparicion es capaz de sembrar el pánico en cualquier lugar.",
         "altura": "1.8 m",
         "peso": "59.0 kg",
-        "habilidades": ["Cabeza roca", "Presión"],
-        "generación": 1
+        "habilidades": ["Cabeza roca", "Presion"],
+        "generacion": 1
     },
     {
         "imagen": "assets/Pokemon-Images-001-151/143-Snorlax.png",
         "id": 143,
         "nombre": "Snorlax",
         "tipo": ["Normal"],
-        "descripción": "Puede devorar más de 880 libras de comida al día. La mayoría de su tiempo lo pasa durmiendo.",
+        "descripcion": "Puede devorar más de 880 libras de comida al día. La mayoría de su tiempo lo pasa durmiendo.",
         "altura": "2.1 m",
         "peso": "460.0 kg",
         "habilidades": ["Nado rápido", "Inmunidad"],
-        "generación": 1
+        "generacion": 1
     },
     {
         "imagen": "assets/Pokemon-Images-001-151/144-Articuno.png",
         "id": 144,
         "nombre": "Articuno",
         "tipo": ["Hielo", "Volador"],
-        "descripción": "Una de las legendarias aves de la región de Kanto. Dicen que con solo aletear, puede producir nevadas.",
+        "descripcion": "Una de las legendarias aves de la region de Kanto. Dicen que con solo aletear, puede producir nevadas.",
         "altura": "1.7 m",
         "peso": "55.4 kg",
-        "habilidades": ["Presión"],
-        "generación": 1
+        "habilidades": ["Presion"],
+        "generacion": 1
     },
     {
         "imagen": "assets/Pokemon-Images-001-151/145-Zapdos.png",
         "id": 145,
         "nombre": "Zapdos",
         "tipo": ["Eléctrico", "Volador"],
-        "descripción": "Una de las legendarias aves de la región de Kanto. Se dice que puede controlar el trueno.",
+        "descripcion": "Una de las legendarias aves de la region de Kanto. Se dice que puede controlar el trueno.",
         "altura": "1.6 m",
         "peso": "52.6 kg",
-        "habilidades": ["Presión"],
-        "generación": 1
+        "habilidades": ["Presion"],
+        "generacion": 1
     },
     {
         "imagen": "assets/Pokemon-Images-001-151/146-Moltres.png",
         "id": 146,
         "nombre": "Moltres",
         "tipo": ["Fuego", "Volador"],
-        "descripción": "Una de las legendarias aves de la región de Kanto. Se dice que su aparición es un presagio de la primavera.",
+        "descripcion": "Una de las legendarias aves de la region de Kanto. Se dice que su aparicion es un presagio de la primavera.",
         "altura": "2.0 m",
         "peso": "60.0 kg",
-        "habilidades": ["Presión"],
-        "generación": 1
+        "habilidades": ["Presion"],
+        "generacion": 1
     },
     {
         "imagen": "assets/Pokemon-Images-001-151/147-Dratini.png",
         "id": 147,
         "nombre": "Dratini",
-        "tipo": ["Dragón"],
-        "descripción": "Un Pokémon que vive en ríos limpios. Es muy difícil verlo debido a que vive en lo más profundo del agua.",
+        "tipo": ["Dragon"],
+        "descripcion": "Un Pokémon que vive en ríos limpios. Es muy difícil verlo debido a que vive en lo más profundo del agua.",
         "altura": "1.8 m",
         "peso": "3.3 kg",
         "habilidades": ["Cabeza roca", "Mudar"],
-        "generación": 1
+        "generacion": 1
     },
     {
         "imagen": "assets/Pokemon-Images-001-151/148-Dragonair.png",
         "id": 148,
         "nombre": "Dragonair",
-        "tipo": ["Dragón"],
-        "descripción": "Vive en lo más profundo de los mares. Se dice que es capaz de controlar el clima.",
+        "tipo": ["Dragon"],
+        "descripcion": "Vive en lo más profundo de los mares. Se dice que es capaz de controlar el clima.",
         "altura": "4.0 m",
         "peso": "16.5 kg",
         "habilidades": ["Cuerpo puro", "Mudar"],
-        "generación": 1
+        "generacion": 1
     },
     {
         "imagen": "assets/Pokemon-Images-001-151/149-Dragonite.png",
         "id": 149,
         "nombre": "Dragonite",
-        "tipo": ["Dragón", "Volador"],
-        "descripción": "Es capaz de volar más rápido que la velocidad del sonido. Se le considera el amo de los cielos.",
+        "tipo": ["Dragon", "Volador"],
+        "descripcion": "Es capaz de volar más rápido que la velocidad del sonido. Se le considera el amo de los cielos.",
         "altura": "2.2 m",
         "peso": "210.0 kg",
         "habilidades": ["Cabeza roca", "Mudar"],
-        "generación": 1
+        "generacion": 1
     },
     {
         "imagen": "assets/Pokemon-Images-001-151/150-Mewtwo.png",
         "id": 150,
         "nombre": "Mewtwo",
         "tipo": ["Psíquico"],
-        "descripción": "Fue creado artificialmente a partir de manipulación genética. Sin embargo, su inteligencia hizo que se volviera imposible de controlar.",
+        "descripcion": "Fue creado artificialmente a partir de manipulacion genética. Sin embargo, su inteligencia hizo que se volviera imposible de controlar.",
         "altura": "2.0 m",
         "peso": "122.0 kg",
-        "habilidades": ["Presión", "Despiste"],
-        "generación": 1
+        "habilidades": ["Presion", "Despiste"],
+        "generacion": 1
     },
     {
         "imagen": "assets/Pokemon-Images-001-151/151-Mew.png",
         "id": 151,
         "nombre": "Mew",
         "tipo": ["Psíquico"],
-        "descripción": "Según la mitología, contiene los genes de todos los Pokémon. Se cree que es el Pokémon más raro de todos.",
+        "descripcion": "Según la mitología, contiene los genes de todos los Pokémon. Se cree que es el Pokémon más raro de todos.",
         "altura": "0.4 m",
         "peso": "4.0 kg",
         "habilidades": ["Sincronía"],
-        "generación": 1
+        "generacion": 1
     }
 ]
 
-}

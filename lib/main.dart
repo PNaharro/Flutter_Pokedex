@@ -10,9 +10,10 @@ void main() async {
   try {
     if (Platform.isLinux || Platform.isMacOS || Platform.isWindows) {
       WidgetsFlutterBinding.ensureInitialized();
+      await AppData.loadPokemonData();
       await WindowManager.instance.ensureInitialized();
       windowManager.waitUntilReadyToShow().then(showWindow);
-      await AppData.loadPokemonData();
+      
     }
   } catch (e) {
     // ignore: avoid_print

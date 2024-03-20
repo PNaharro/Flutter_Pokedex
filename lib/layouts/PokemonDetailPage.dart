@@ -1,64 +1,82 @@
-import 'dart:convert';
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart' show rootBundle;
+import 'package:flutter_pokedex/app_data.dart'; 
 
-class PokemonDetailPage extends StatefulWidget {
-  final String pokemonJsonPath;
-  final String pokemonId;
+class PokemonPageDetail extends StatelessWidget {
+  final int pokemonId;
 
-  PokemonDetailPage({required this.pokemonJsonPath, required this.pokemonId});
-
-  @override
-  _PokemonDetailPageState createState() => _PokemonDetailPageState();
-}
-
-class _PokemonDetailPageState extends State<PokemonDetailPage> {
-  late Map<String, dynamic> pokemonData;
-
-  @override
-  void initState() {
-    super.initState();
-    _loadPokemonData();
-  }
-
-  Future<void> _loadPokemonData() async {
-    String jsonString = await rootBundle.loadString(widget.pokemonJsonPath);
-    List<dynamic> pokemonList = json.decode(jsonString);
-    setState(() {
-      pokemonData = pokemonList
-          .firstWhere((pokemon) => pokemon['id'] == '#${widget.pokemonId}');
-    });
-  }
+  PokemonPageDetail({required this.pokemonId});
 
   @override
   Widget build(BuildContext context) {
+    PokemonData? pokemonData = AppData.getPokemonById(pokemonId);
+
+    if (pokemonData == null) {
+      // Manejar el caso en que no se encuentre el Pokémon
+      return Scaffold(
+        appBar: AppBar(
+          title: Text('Detalles del Pokémon'),
+        ),
+        body: Center(
+          child: Text('No se encontró información para el Pokémon con ID $pokemonId'),
+        ),
+      );
+    }
+
     return Scaffold(
       appBar: AppBar(
-        title: Text(pokemonData['name'] ?? ''),
+        title: Text('Detalles del Pokémon'),
       ),
-      body: pokemonData.isEmpty
-          ? Center(child: CircularProgressIndicator())
-          : SingleChildScrollView(
-              padding: EdgeInsets.all(16.0),
-              child: Column(
-                crossAxisAlignment: CrossAxisAlignment.start,
-                children: [
-                  Center(
-                    child: Image.network(
-                      pokemonData['imagen'] ?? '',
-                      width: 200,
-                      height: 200,
-                    ),
-                  ),
-                  SizedBox(height: 16.0),
-                  Text(
-                    'ID: ${pokemonData['id']}',
-                    style: TextStyle(fontWeight: FontWeight.bold),
-                  ),
-                  // Otros campos de datos aquí
-                ],
+      body: SingleChildScrollView(
+        child: Padding(
+          padding: EdgeInsets.all(16.0),
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Text(
+                'ID - ${pokemonData.id} - ${pokemonData.nombre}',
+                style: TextStyle(
+                  fontSize: 24,
+                  fontWeight: FontWeight.bold,
+                ),
               ),
-            ),
+              SizedBox(height: 20),
+              Center(
+                child: Image.asset(
+                  pokemonData.imagen,
+                  width: 400,
+                  height: 400,
+                  fit: BoxFit.cover,
+                ),
+              ),
+              SizedBox(height: 20),
+              Text(
+                'Tipo: ${pokemonData.tipo.join(", ")}',
+                style: TextStyle(fontSize: 18),
+              ),
+              Text(
+                'Descripcion: ${pokemonData.descripcion}',
+                style: TextStyle(fontSize: 18),
+              ),
+              Text(
+                'Altura: ${pokemonData.altura}',
+                style: TextStyle(fontSize: 18),
+              ),
+              Text(
+                'Peso: ${pokemonData.peso}',
+                style: TextStyle(fontSize: 18),
+              ),
+              Text(
+                'Habilidades: ${pokemonData.habilidades.join(", ")}',
+                style: TextStyle(fontSize: 18),
+              ),
+              Text(
+                'Generacion: ${pokemonData.generacion}',
+                style: TextStyle(fontSize: 18),
+              ),
+            ],
+          ),
+        ),
+      ),
     );
   }
 }
