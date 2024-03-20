@@ -45,7 +45,7 @@ class _PokemonDetailPageState extends State<PokemonDetailPage> {
                 children: [
                   Center(
                     child: Image.network(
-                      pokemonData['imageurl'] ?? '',
+                      pokemonData['imagen'] ?? '',
                       width: 200,
                       height: 200,
                     ),

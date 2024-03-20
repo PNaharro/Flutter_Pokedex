@@ -11,7 +11,7 @@ class PrimeraGen extends StatefulWidget {
 class PrimeraGenIntroState extends State<PrimeraGen> {
   @override
   Widget build(BuildContext context) {
-    //WidgetsBinding.instance!.addPostFrameCallback((_) {
+    // WidgetsBinding.instance!.addPostFrameCallback((_) {
     //  _showWelcomeMessage(context);
     //});
 
@@ -70,22 +70,21 @@ class PrimeraGenIntroState extends State<PrimeraGen> {
   }
 
 // Función para navegar a la página de detalles del Pokémon
-  /**void _navigateToPokemonDetails(String id) {
+  void _navigateToPokemonDetails(String id) {
     Navigator.push(
       context,
       MaterialPageRoute(
-        builder: (context) => PokemonDetailPage(pokemonId: id),
+        builder: (context) => PokemonDetailPage(pokemonId: id, pokemonJsonPath: 'assets\files'),
       ),
     );
-  }**/
-
+  }
   // Función para mostrar el mensaje de bienvenida
   void _showWelcomeMessage(BuildContext context) {
     showDialog(
       context: context,
       builder: (BuildContext context) {
         return AlertDialog(
-          title: Text('Bienvenido a la Pokédex'),
+          title: Text('Primera generacion'),
           content: Text('¡Explora el mundo Pokémon ahora!'),
           actions: <Widget>[
             TextButton(

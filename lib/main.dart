@@ -12,6 +12,7 @@ void main() async {
       WidgetsFlutterBinding.ensureInitialized();
       await WindowManager.instance.ensureInitialized();
       windowManager.waitUntilReadyToShow().then(showWindow);
+      await AppData.loadPokemonData();
     }
   } catch (e) {
     // ignore: avoid_print
@@ -31,5 +32,5 @@ void main() async {
 void showWindow(_) async {
   windowManager.setMinimumSize(const Size(480.0, 800.0));
   windowManager.setMaximumSize(const Size(480.0, 800.0));
-  await windowManager.setTitle('App');
+  await windowManager.setTitle('Pokedex');
 }
