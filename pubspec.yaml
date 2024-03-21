@@ -58,7 +58,7 @@ flutter:
   assets:
     - assets/regiones/
     - assets/files/
-    - assets/Pokemon-Images-001-151/
+    - assets/gen1/
 
 
   # The following line ensures that the Material Icons font is

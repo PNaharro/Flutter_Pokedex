@@ -1,6 +1,6 @@
 [
         {
-        "imagen": "assets/Pokemon-Images-001-151/001-Bulbasaur.png",
+        "imagen": "assets/gen1/001-Bulbasaur.png",
         "id": 1,
         "nombre": "Bulbasaur",
         "tipo": ["Planta", "Veneno"],
@@ -11,7 +11,7 @@
         "generacion": 1
         },
         {
-        "imagen": "assets/Pokemon-Images-001-151/002-Ivysaur.png",
+        "imagen": "assets/gen1/002-Ivysaur.png",
         "id": 2,
         "nombre": "Ivysaur",
         "tipo": ["Planta", "Veneno"],
@@ -22,7 +22,7 @@
         "generacion": 1
         },
         {
-        "imagen": "assets/Pokemon-Images-001-151/003-Venusaur.png",
+        "imagen": "assets/gen1/003-Venusaur.png",
         "id": 3,
         "nombre": "Venusaur",
         "tipo": ["Planta", "Veneno"],
@@ -33,7 +33,7 @@
         "generacion": 1
         },
         {
-        "imagen": "assets/Pokemon-Images-001-151/004-Charmander.png",
+        "imagen": "assets/gen1/004-Charmander.png",
         "id": 4,
         "nombre": "Charmander",
         "tipo": ["Fuego"],
@@ -44,7 +44,7 @@
         "generacion": 1
         },
         {
-        "imagen": "assets/Pokemon-Images-001-151/005-Charmeleon.png",
+        "imagen": "assets/gen1/005-Charmeleon.png",
         "id": 5,
         "nombre": "Charmeleon",
         "tipo": ["Fuego"],
@@ -55,7 +55,7 @@
         "generacion": 1
         },
         {
-        "imagen": "assets/Pokemon-Images-001-151/006-Charizard.png",
+        "imagen": "assets/gen1/006-Charizard.png",
         "id": 6,
         "nombre": "Charizard",
         "tipo": ["Fuego", "Volador"],
@@ -66,7 +66,7 @@
         "generacion": 1
         },
         {
-        "imagen": "assets/Pokemon-Images-001-151/007-Squirtle.png",
+        "imagen": "assets/gen1/007-Squirtle.png",
         "id": 7,
         "nombre": "Squirtle",
         "tipo": ["Agua"],
@@ -77,7 +77,7 @@
         "generacion": 1
         },
         {
-        "imagen": "assets/Pokemon-Images-001-151/008-Wartortle.png",
+        "imagen": "assets/gen1/008-Wartortle.png",
         "id": 8,
         "nombre": "Wartortle",
         "tipo": ["Agua"],
@@ -88,7 +88,7 @@
         "generacion": 1
         },
         {
-        "imagen": "assets/Pokemon-Images-001-151/009-Blastoise.png",
+        "imagen": "assets/gen1/009-Blastoise.png",
         "id": 9,
         "nombre": "Blastoise",
         "tipo": ["Agua"],
@@ -99,7 +99,7 @@
         "generacion": 1
         },
         {
-        "imagen": "assets/Pokemon-Images-001-151/010-Caterpie.png",
+        "imagen": "assets/gen1/010-Caterpie.png",
         "id": 10,
         "nombre": "Caterpie",
         "tipo": ["Bicho"],
@@ -110,7 +110,7 @@
         "generacion": 1
         },
         {
-        "imagen": "assets/Pokemon-Images-001-151/011-Metapod.png",
+        "imagen": "assets/gen1/011-Metapod.png",
         "id": 11,
         "nombre": "Metapod",
         "tipo": ["Bicho"],
@@ -121,7 +121,7 @@
         "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/012-Butterfree.png",
+            "imagen": "assets/gen1/012-Butterfree.png",
             "id": 12,
             "nombre": "Butterfree",
             "tipo": ["Bicho", "Volador"],
@@ -132,7 +132,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/013-Weedle.png",
+            "imagen": "assets/gen1/013-Weedle.png",
             "id": 13,
             "nombre": "Weedle",
             "tipo": ["Bicho", "Veneno"],
@@ -143,7 +143,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/014-Kakuna.png",
+            "imagen": "assets/gen1/014-Kakuna.png",
             "id": 14,
             "nombre": "Kakuna",
             "tipo": ["Bicho", "Veneno"],
@@ -154,7 +154,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/015-Beedrill.png",
+            "imagen": "assets/gen1/015-Beedrill.png",
             "id": 15,
             "nombre": "Beedrill",
             "tipo": ["Bicho", "Veneno"],
@@ -165,7 +165,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/016-Pidgey.png",
+            "imagen": "assets/gen1/016-Pidgey.png",
             "id": 16,
             "nombre": "Pidgey",
             "tipo": ["Normal", "Volador"],
@@ -176,7 +176,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/017-Pidgeotto.png",
+            "imagen": "assets/gen1/017-Pidgeotto.png",
             "id": 17,
             "nombre": "Pidgeotto",
             "tipo": ["Normal", "Volador"],
@@ -187,7 +187,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/018-Pidgeot.png",
+            "imagen": "assets/gen1/018-Pidgeot.png",
             "id": 18,
             "nombre": "Pidgeot",
             "tipo": ["Normal", "Volador"],
@@ -198,7 +198,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/019-Rattata.png",
+            "imagen": "assets/gen1/019-Rattata.png",
             "id": 19,
             "nombre": "Rattata",
             "tipo": ["Normal"],
@@ -209,7 +209,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/020-Raticate.png",
+            "imagen": "assets/gen1/020-Raticate.png",
             "id": 20,
             "nombre": "Raticate",
             "tipo": ["Normal"],
@@ -220,7 +220,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/021-Spearow.png",
+            "imagen": "assets/gen1/021-Spearow.png",
             "id": 21,
             "nombre": "Spearow",
             "tipo": ["Normal", "Volador"],
@@ -231,7 +231,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/022-Fearow.png",
+            "imagen": "assets/gen1/022-Fearow.png",
             "id": 22,
             "nombre": "Fearow",
             "tipo": ["Normal", "Volador"],
@@ -242,7 +242,7 @@
             "generacion": 1
         },
         {
-        "imagen": "assets/Pokemon-Images-001-151/023-Ekans.png",
+        "imagen": "assets/gen1/023-Ekans.png",
         "id": 23,
         "nombre": "Ekans",
         "tipo": ["Veneno"],
@@ -253,7 +253,7 @@
         "generacion": 1
         },
         {
-        "imagen": "assets/Pokemon-Images-001-151/024-Arbok.png",
+        "imagen": "assets/gen1/024-Arbok.png",
         "id": 24,
         "nombre": "Arbok",
         "tipo": ["Veneno"],
@@ -264,7 +264,7 @@
         "generacion": 1
         },
         {
-        "imagen": "assets/Pokemon-Images-001-151/025-Pikachu.png",
+        "imagen": "assets/gen1/025-Pikachu.png",
         "id": 25,
         "nombre": "Pikachu",
         "tipo": ["Eléctrico"],
@@ -275,7 +275,7 @@
         "generacion": 1
         },
         {
-        "imagen": "assets/Pokemon-Images-001-151/026-Raichu.png",
+        "imagen": "assets/gen1/026-Raichu.png",
         "id": 26,
         "nombre": "Raichu",
         "tipo": ["Eléctrico"],
@@ -286,7 +286,7 @@
         "generacion": 1
         },
         {
-        "imagen": "assets/Pokemon-Images-001-151/027-Sandshrew.png",
+        "imagen": "assets/gen1/027-Sandshrew.png",
         "id": 27,
         "nombre": "Sandshrew",
         "tipo": ["Tierra"],
@@ -297,7 +297,7 @@
         "generacion": 1
         },
         {
-        "imagen": "assets/Pokemon-Images-001-151/028-Sandslash.png",
+        "imagen": "assets/gen1/028-Sandslash.png",
         "id": 28,
         "nombre": "Sandslash",
         "tipo": ["Tierra"],
@@ -308,7 +308,7 @@
         "generacion": 1
         },
         {
-        "imagen": "assets/Pokemon-Images-001-151/029-Nidoran.png",
+        "imagen": "assets/gen1/029-Nidoran.png",
         "id": 29,
         "nombre": "Nidoran♀",
         "tipo": ["Veneno"],
@@ -319,7 +319,7 @@
         "generacion": 1
         },
         {
-        "imagen": "assets/Pokemon-Images-001-151/030-Nidorina.png",
+        "imagen": "assets/gen1/030-Nidorina.png",
         "id": 30,
         "nombre": "Nidorina",
         "tipo": ["Veneno"],
@@ -330,7 +330,7 @@
         "generacion": 1
         },
         {
-        "imagen": "assets/Pokemon-Images-001-151/031-Nidoqueen.png",
+        "imagen": "assets/gen1/031-Nidoqueen.png",
         "id": 31,
         "nombre": "Nidoqueen",
         "tipo": ["Veneno", "Tierra"],
@@ -341,7 +341,7 @@
         "generacion": 1
         },
         {
-        "imagen": "assets/Pokemon-Images-001-151/032-Nidoran.png",
+        "imagen": "assets/gen1/032-Nidoran.png",
         "id": 32,
         "nombre": "Nidoran♂",
         "tipo": ["Veneno"],
@@ -352,7 +352,7 @@
         "generacion": 1
         },
         {
-        "imagen": "assets/Pokemon-Images-001-151/033-Nidorino.png",
+        "imagen": "assets/gen1/033-Nidorino.png",
         "id": 33,
         "nombre": "Nidorino",
         "tipo": ["Veneno"],
@@ -363,7 +363,7 @@
         "generacion": 1
         },
         {
-        "imagen": "assets/Pokemon-Images-001-151/034-Nidoking.png",
+        "imagen": "assets/gen1/034-Nidoking.png",
         "id": 34,
         "nombre": "Nidoking",
         "tipo": ["Veneno", "Tierra"],
@@ -374,7 +374,7 @@
         "generacion": 1
         },
         {
-        "imagen": "assets/Pokemon-Images-001-151/035-Clefairy.png",
+        "imagen": "assets/gen1/035-Clefairy.png",
         "id": 35,
         "nombre": "Clefairy",
         "tipo": ["Hada"],
@@ -385,7 +385,7 @@
         "generacion": 1
         },
         {
-        "imagen": "assets/Pokemon-Images-001-151/036-Clefable.png",
+        "imagen": "assets/gen1/036-Clefable.png",
         "id": 36,
         "nombre": "Clefable",
         "tipo": ["Hada"],
@@ -396,7 +396,7 @@
         "generacion": 1
         },
         {
-        "imagen": "assets/Pokemon-Images-001-151/037-Vulpix.png",
+        "imagen": "assets/gen1/037-Vulpix.png",
         "id": 37,
         "nombre": "Vulpix",
         "tipo": ["Fuego"],
@@ -407,7 +407,7 @@
         "generacion": 1
         },
         {
-        "imagen": "assets/Pokemon-Images-001-151/038-Ninetales.png",
+        "imagen": "assets/gen1/038-Ninetales.png",
         "id": 38,
         "nombre": "Ninetales",
         "tipo": ["Fuego"],
@@ -418,7 +418,7 @@
         "generacion": 1
         },
         {
-        "imagen": "assets/Pokemon-Images-001-151/039-Jigglypuff.png",
+        "imagen": "assets/gen1/039-Jigglypuff.png",
         "id": 39,
         "nombre": "Jigglypuff",
         "tipo": ["Normal", "Hada"],
@@ -429,7 +429,7 @@
         "generacion": 1
         },
         {
-        "imagen": "assets/Pokemon-Images-001-151/040-Wigglytuff.png",
+        "imagen": "assets/gen1/040-Wigglytuff.png",
         "id": 40,
         "nombre": "Wigglytuff",
         "tipo": ["Normal", "Hada"],
@@ -440,7 +440,7 @@
         "generacion": 1
         },
         {
-        "imagen": "assets/Pokemon-Images-001-151/041-Zubat.png",
+        "imagen": "assets/gen1/041-Zubat.png",
         "id": 41,
         "nombre": "Zubat",
         "tipo": ["Veneno", "Volador"],
@@ -451,7 +451,7 @@
         "generacion": 1
         },
         {
-        "imagen": "assets/Pokemon-Images-001-151/042-Golbat.png",
+        "imagen": "assets/gen1/042-Golbat.png",
         "id": 42,
         "nombre": "Golbat",
         "tipo": ["Veneno", "Volador"],
@@ -462,7 +462,7 @@
         "generacion": 1
         },
         {
-        "imagen": "assets/Pokemon-Images-001-151/043-Oddish.png",
+        "imagen": "assets/gen1/043-Oddish.png",
         "id": 43,
         "nombre": "Oddish",
         "tipo": ["Planta", "Veneno"],
@@ -473,7 +473,7 @@
         "generacion": 1
         },
         {
-        "imagen": "assets/Pokemon-Images-001-151/044-Gloom.png",
+        "imagen": "assets/gen1/044-Gloom.png",
         "id": 44,
         "nombre": "Gloom",
         "tipo": ["Planta", "Veneno"],
@@ -484,7 +484,7 @@
         "generacion": 1
         },
         {
-        "imagen": "assets/Pokemon-Images-001-151/045-Vileplume.png",
+        "imagen": "assets/gen1/045-Vileplume.png",
         "id": 45,
         "nombre": "Vileplume",
         "tipo": ["Planta", "Veneno"],
@@ -495,7 +495,7 @@
         "generacion": 1
         },
         {
-        "imagen": "assets/Pokemon-Images-001-151/046-Paras.png",
+        "imagen": "assets/gen1/046-Paras.png",
         "id": 46,
         "nombre": "Paras",
         "tipo": ["Bicho", "Planta"],
@@ -506,7 +506,7 @@
         "generacion": 1
         },
         {
-        "imagen": "assets/Pokemon-Images-001-151/047-Parasect.png",
+        "imagen": "assets/gen1/047-Parasect.png",
         "id": 47,
         "nombre": "Parasect",
         "tipo": ["Bicho", "Planta"],
@@ -517,7 +517,7 @@
         "generacion": 1
         },
         {
-        "imagen": "assets/Pokemon-Images-001-151/048-Venonat.png",
+        "imagen": "assets/gen1/048-Venonat.png",
         "id": 48,
         "nombre": "Venonat",
         "tipo": ["Bicho", "Veneno"],
@@ -528,7 +528,7 @@
         "generacion": 1
         },
         {
-        "imagen": "assets/Pokemon-Images-001-151/049-Venomoth.png",
+        "imagen": "assets/gen1/049-Venomoth.png",
         "id": 49,
         "nombre": "Venomoth",
         "tipo": ["Bicho", "Veneno"],
@@ -539,7 +539,7 @@
         "generacion": 1
         },
         {
-        "imagen": "assets/Pokemon-Images-001-151/050-Diglett.png",
+        "imagen": "assets/gen1/050-Diglett.png",
         "id": 50,
         "nombre": "Diglett",
         "tipo": ["Tierra"],
@@ -549,7 +549,7 @@
         "habilidades": ["Velo arena", "Ímpetu arena"],
         "generacion": 1
         },{
-        "imagen": "assets/Pokemon-Images-001-151/050-Diglett.png",
+        "imagen": "assets/gen1/050-Diglett.png",
         "id": 50,
         "nombre": "Diglett",
         "tipo": ["Tierra"],
@@ -560,7 +560,7 @@
         "generacion": 1
         },
         {
-        "imagen": "assets/Pokemon-Images-001-151/051-Dugtrio.png",
+        "imagen": "assets/gen1/051-Dugtrio.png",
         "id": 51,
         "nombre": "Dugtrio",
         "tipo": ["Tierra"],
@@ -571,7 +571,7 @@
         "generacion": 1
         },
         {
-        "imagen": "assets/Pokemon-Images-001-151/052-Meowth.png",
+        "imagen": "assets/gen1/052-Meowth.png",
         "id": 52,
         "nombre": "Meowth",
         "tipo": ["Normal"],
@@ -582,7 +582,7 @@
         "generacion": 1
         },
         {
-        "imagen": "assets/Pokemon-Images-001-151/053-Persian.png",
+        "imagen": "assets/gen1/053-Persian.png",
         "id": 53,
         "nombre": "Persian",
         "tipo": ["Normal"],
@@ -593,7 +593,7 @@
         "generacion": 1
         },
         {
-        "imagen": "assets/Pokemon-Images-001-151/054-Psyduck.png",
+        "imagen": "assets/gen1/054-Psyduck.png",
         "id": 54,
         "nombre": "Psyduck",
         "tipo": ["Agua"],
@@ -604,7 +604,7 @@
         "generacion": 1
         },
         {
-        "imagen": "assets/Pokemon-Images-001-151/055-Golduck.png",
+        "imagen": "assets/gen1/055-Golduck.png",
         "id": 55,
         "nombre": "Golduck",
         "tipo": ["Agua"],
@@ -615,7 +615,7 @@
         "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/056-Mankey.png",
+            "imagen": "assets/gen1/056-Mankey.png",
             "id": 56,
             "nombre": "Mankey",
             "tipo": ["Lucha"],
@@ -626,7 +626,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/057-Primeape.png",
+            "imagen": "assets/gen1/057-Primeape.png",
             "id": 57,
             "nombre": "Primeape",
             "tipo": ["Lucha"],
@@ -637,7 +637,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/058-Growlithe.png",
+            "imagen": "assets/gen1/058-Growlithe.png",
             "id": 58,
             "nombre": "Growlithe",
             "tipo": ["Fuego"],
@@ -648,7 +648,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/059-Arcanine.png",
+            "imagen": "assets/gen1/059-Arcanine.png",
             "id": 59,
             "nombre": "Arcanine",
             "tipo": ["Fuego"],
@@ -659,7 +659,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/060-Poliwag.png",
+            "imagen": "assets/gen1/060-Poliwag.png",
             "id": 60,
             "nombre": "Poliwag",
             "tipo": ["Agua"],
@@ -670,7 +670,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/061-Poliwhirl.png",
+            "imagen": "assets/gen1/061-Poliwhirl.png",
             "id": 61,
             "nombre": "Poliwhirl",
             "tipo": ["Agua"],
@@ -681,7 +681,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/062-Poliwrath.png",
+            "imagen": "assets/gen1/062-Poliwrath.png",
             "id": 62,
             "nombre": "Poliwrath",
             "tipo": ["Agua", "Lucha"],
@@ -692,7 +692,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/063-Abra.png",
+            "imagen": "assets/gen1/063-Abra.png",
             "id": 63,
             "nombre": "Abra",
             "tipo": ["Psíquico"],
@@ -703,7 +703,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/064-Kadabra.png",
+            "imagen": "assets/gen1/064-Kadabra.png",
             "id": 64,
             "nombre": "Kadabra",
             "tipo": ["Psíquico"],
@@ -714,7 +714,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/065-Alakazam.png",
+            "imagen": "assets/gen1/065-Alakazam.png",
             "id": 65,
             "nombre": "Alakazam",
             "tipo": ["Psíquico"],
@@ -726,7 +726,7 @@
         },
 
         {
-            "imagen": "assets/Pokemon-Images-001-151/066-Machop.png",
+            "imagen": "assets/gen1/066-Machop.png",
             "id": 66,
             "nombre": "Machop",
             "tipo": ["Lucha"],
@@ -737,7 +737,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/067-Machoke.png",
+            "imagen": "assets/gen1/067-Machoke.png",
             "id": 67,
             "nombre": "Machoke",
             "tipo": ["Lucha"],
@@ -748,7 +748,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/068-Machamp.png",
+            "imagen": "assets/gen1/068-Machamp.png",
             "id": 68,
             "nombre": "Machamp",
             "tipo": ["Lucha"],
@@ -759,7 +759,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/069-Bellsprout.png",
+            "imagen": "assets/gen1/069-Bellsprout.png",
             "id": 69,
             "nombre": "Bellsprout",
             "tipo": ["Planta", "Veneno"],
@@ -770,7 +770,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/070-Weepinbell.png",
+            "imagen": "assets/gen1/070-Weepinbell.png",
             "id": 70,
             "nombre": "Weepinbell",
             "tipo": ["Planta", "Veneno"],
@@ -781,7 +781,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/071-Victreebel.png",
+            "imagen": "assets/gen1/071-Victreebel.png",
             "id": 71,
             "nombre": "Victreebel",
             "tipo": ["Planta", "Veneno"],
@@ -792,7 +792,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/072-Tentacool.png",
+            "imagen": "assets/gen1/072-Tentacool.png",
             "id": 72,
             "nombre": "Tentacool",
             "tipo": ["Agua", "Veneno"],
@@ -803,7 +803,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/073-Tentacruel.png",
+            "imagen": "assets/gen1/073-Tentacruel.png",
             "id": 73,
             "nombre": "Tentacruel",
             "tipo": ["Agua", "Veneno"],
@@ -814,7 +814,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/074-Geodude.png",
+            "imagen": "assets/gen1/074-Geodude.png",
             "id": 74,
             "nombre": "Geodude",
             "tipo": ["Roca", "Tierra"],
@@ -825,7 +825,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/075-Graveler.png",
+            "imagen": "assets/gen1/075-Graveler.png",
             "id": 75,
             "nombre": "Graveler",
             "tipo": ["Roca", "Tierra"],
@@ -836,7 +836,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/076-Golem.png",
+            "imagen": "assets/gen1/076-Golem.png",
             "id": 76,
             "nombre": "Golem",
             "tipo": ["Roca", "Tierra"],
@@ -847,7 +847,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/077-Ponyta.png",
+            "imagen": "assets/gen1/077-Ponyta.png",
             "id": 77,
             "nombre": "Ponyta",
             "tipo": ["Fuego"],
@@ -858,7 +858,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/078-Rapidash.png",
+            "imagen": "assets/gen1/078-Rapidash.png",
             "id": 78,
             "nombre": "Rapidash",
             "tipo": ["Fuego"],
@@ -869,7 +869,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/079-Slowpoke.png",
+            "imagen": "assets/gen1/079-Slowpoke.png",
             "id": 79,
             "nombre": "Slowpoke",
             "tipo": ["Agua", "Psíquico"],
@@ -880,7 +880,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/080-Slowbro.png",
+            "imagen": "assets/gen1/080-Slowbro.png",
             "id": 80,
             "nombre": "Slowbro",
             "tipo": ["Agua", "Psíquico"],
@@ -891,7 +891,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/081-Magnemite.png",
+            "imagen": "assets/gen1/081-Magnemite.png",
             "id": 81,
             "nombre": "Magnemite",
             "tipo": ["Eléctrico", "Acero"],
@@ -902,7 +902,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/082-Magneton.png",
+            "imagen": "assets/gen1/082-Magneton.png",
             "id": 82,
             "nombre": "Magneton",
             "tipo": ["Eléctrico", "Acero"],
@@ -913,7 +913,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/083-Farfetch'd.png",
+            "imagen": "assets/gen1/083-Farfetch'd.png",
             "id": 83,
             "nombre": "Farfetch'd",
             "tipo": ["Normal", "Volador"],
@@ -924,7 +924,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/084-Doduo.png",
+            "imagen": "assets/gen1/084-Doduo.png",
             "id": 84,
             "nombre": "Doduo",
             "tipo": ["Normal", "Volador"],
@@ -935,7 +935,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/085-Dodrio.png",
+            "imagen": "assets/gen1/085-Dodrio.png",
             "id": 85,
             "nombre": "Dodrio",
             "tipo": ["Normal", "Volador"],
@@ -946,7 +946,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/086-Seel.png",
+            "imagen": "assets/gen1/086-Seel.png",
             "id": 86,
             "nombre": "Seel",
             "tipo": ["Agua"],
@@ -958,7 +958,7 @@
         },
     
         {
-            "imagen": "assets/Pokemon-Images-001-151/087-Dewgong.png",
+            "imagen": "assets/gen1/087-Dewgong.png",
             "id": 87,
             "nombre": "Dewgong",
             "tipo": ["Agua", "Hielo"],
@@ -969,7 +969,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/088-Grimer.png",
+            "imagen": "assets/gen1/088-Grimer.png",
             "id": 88,
             "nombre": "Grimer",
             "tipo": ["Veneno"],
@@ -980,7 +980,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/089-Muk.png",
+            "imagen": "assets/gen1/089-Muk.png",
             "id": 89,
             "nombre": "Muk",
             "tipo": ["Veneno"],
@@ -991,7 +991,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/090-Shellder.png",
+            "imagen": "assets/gen1/090-Shellder.png",
             "id": 90,
             "nombre": "Shellder",
             "tipo": ["Agua"],
@@ -1002,7 +1002,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/091-Cloyster.png",
+            "imagen": "assets/gen1/091-Cloyster.png",
             "id": 91,
             "nombre": "Cloyster",
             "tipo": ["Agua", "Hielo"],
@@ -1013,7 +1013,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/092-Gastly.png",
+            "imagen": "assets/gen1/092-Gastly.png",
             "id": 92,
             "nombre": "Gastly",
             "tipo": ["Fantasma", "Veneno"],
@@ -1024,7 +1024,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/093-Haunter.png",
+            "imagen": "assets/gen1/093-Haunter.png",
             "id": 93,
             "nombre": "Haunter",
             "tipo": ["Fantasma", "Veneno"],
@@ -1035,7 +1035,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/094-Gengar.png",
+            "imagen": "assets/gen1/094-Gengar.png",
             "id": 94,
             "nombre": "Gengar",
             "tipo": ["Fantasma", "Veneno"],
@@ -1046,7 +1046,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/095-Onix.png",
+            "imagen": "assets/gen1/095-Onix.png",
             "id": 95,
             "nombre": "Onix",
             "tipo": ["Roca", "Tierra"],
@@ -1057,7 +1057,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/096-Drowzee.png",
+            "imagen": "assets/gen1/096-Drowzee.png",
             "id": 96,
             "nombre": "Drowzee",
             "tipo": ["Psíquico"],
@@ -1068,7 +1068,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/097-Hypno.png",
+            "imagen": "assets/gen1/097-Hypno.png",
             "id": 97,
             "nombre": "Hypno",
             "tipo": ["Psíquico"],
@@ -1080,7 +1080,7 @@
         },
     
         {
-            "imagen": "assets/Pokemon-Images-001-151/098-Krabby.png",
+            "imagen": "assets/gen1/098-Krabby.png",
             "id": 98,
             "nombre": "Krabby",
             "tipo": ["Agua"],
@@ -1091,7 +1091,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/099-Kingler.png",
+            "imagen": "assets/gen1/099-Kingler.png",
             "id": 99,
             "nombre": "Kingler",
             "tipo": ["Agua"],
@@ -1102,7 +1102,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/100-Voltorb.png",
+            "imagen": "assets/gen1/100-Voltorb.png",
             "id": 100,
             "nombre": "Voltorb",
             "tipo": ["Eléctrico"],
@@ -1113,7 +1113,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/101-Electrode.png",
+            "imagen": "assets/gen1/101-Electrode.png",
             "id": 101,
             "nombre": "Electrode",
             "tipo": ["Eléctrico"],
@@ -1124,7 +1124,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/102-Exeggcute.png",
+            "imagen": "assets/gen1/102-Exeggcute.png",
             "id": 102,
             "nombre": "Exeggcute",
             "tipo": ["Planta", "Psíquico"],
@@ -1135,7 +1135,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/103-Exeggutor.png",
+            "imagen": "assets/gen1/103-Exeggutor.png",
             "id": 103,
             "nombre": "Exeggutor",
             "tipo": ["Planta", "Psíquico"],
@@ -1146,7 +1146,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/104-Cubone.png",
+            "imagen": "assets/gen1/104-Cubone.png",
             "id": 104,
             "nombre": "Cubone",
             "tipo": ["Tierra"],
@@ -1157,7 +1157,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/105-Marowak.png",
+            "imagen": "assets/gen1/105-Marowak.png",
             "id": 105,
             "nombre": "Marowak",
             "tipo": ["Tierra"],
@@ -1168,7 +1168,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/106-Hitmonlee.png",
+            "imagen": "assets/gen1/106-Hitmonlee.png",
             "id": 106,
             "nombre": "Hitmonlee",
             "tipo": ["Lucha"],
@@ -1179,7 +1179,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/107-Hitmonchan.png",
+            "imagen": "assets/gen1/107-Hitmonchan.png",
             "id": 107,
             "nombre": "Hitmonchan",
             "tipo": ["Lucha"],
@@ -1190,7 +1190,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/108-Lickitung.png",
+            "imagen": "assets/gen1/108-Lickitung.png",
             "id": 108,
             "nombre": "Lickitung",
             "tipo": ["Normal"],
@@ -1201,7 +1201,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/109-Koffing.png",
+            "imagen": "assets/gen1/109-Koffing.png",
             "id": 109,
             "nombre": "Koffing",
             "tipo": ["Veneno"],
@@ -1212,7 +1212,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/110-Weezing.png",
+            "imagen": "assets/gen1/110-Weezing.png",
             "id": 110,
             "nombre": "Weezing",
             "tipo": ["Veneno"],
@@ -1223,7 +1223,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/111-Rhyhorn.png",
+            "imagen": "assets/gen1/111-Rhyhorn.png",
             "id": 111,
             "nombre": "Rhyhorn",
             "tipo": ["Tierra", "Roca"],
@@ -1234,7 +1234,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/112-Rhydon.png",
+            "imagen": "assets/gen1/112-Rhydon.png",
             "id": 112,
             "nombre": "Rhydon",
             "tipo": ["Tierra", "Roca"],
@@ -1245,7 +1245,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/113-Chansey.png",
+            "imagen": "assets/gen1/113-Chansey.png",
             "id": 113,
             "nombre": "Chansey",
             "tipo": ["Normal"],
@@ -1256,7 +1256,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/114-Tangela.png",
+            "imagen": "assets/gen1/114-Tangela.png",
             "id": 114,
             "nombre": "Tangela",
             "tipo": ["Planta"],
@@ -1267,7 +1267,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/115-Kangaskhan.png",
+            "imagen": "assets/gen1/115-Kangaskhan.png",
             "id": 115,
             "nombre": "Kangaskhan",
             "tipo": ["Normal"],
@@ -1278,7 +1278,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/116-Horsea.png",
+            "imagen": "assets/gen1/116-Horsea.png",
             "id": 116,
             "nombre": "Horsea",
             "tipo": ["Agua"],
@@ -1289,7 +1289,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/117-Seadra.png",
+            "imagen": "assets/gen1/117-Seadra.png",
             "id": 117,
             "nombre": "Seadra",
             "tipo": ["Agua"],
@@ -1300,7 +1300,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/118-Goldeen.png",
+            "imagen": "assets/gen1/118-Goldeen.png",
             "id": 118,
             "nombre": "Goldeen",
             "tipo": ["Agua"],
@@ -1311,7 +1311,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/119-Seaking.png",
+            "imagen": "assets/gen1/119-Seaking.png",
             "id": 119,
             "nombre": "Seaking",
             "tipo": ["Agua"],
@@ -1322,7 +1322,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/120-Staryu.png",
+            "imagen": "assets/gen1/120-Staryu.png",
             "id": 120,
             "nombre": "Staryu",
             "tipo": ["Agua"],
@@ -1333,7 +1333,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/121-Starmie.png",
+            "imagen": "assets/gen1/121-Starmie.png",
             "id": 121,
             "nombre": "Starmie",
             "tipo": ["Agua", "Psíquico"],
@@ -1344,7 +1344,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/122-Mr._Mime.png",
+            "imagen": "assets/gen1/122-Mr._Mime.png",
             "id": 122,
             "nombre": "Mr. Mime",
             "tipo": ["Psíquico", "Hada"],
@@ -1355,7 +1355,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/123-Scyther.png",
+            "imagen": "assets/gen1/123-Scyther.png",
             "id": 123,
             "nombre": "Scyther",
             "tipo": ["Bicho", "Volador"],
@@ -1366,7 +1366,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/124-Jynx.png",
+            "imagen": "assets/gen1/124-Jynx.png",
             "id": 124,
             "nombre": "Jynx",
             "tipo": ["Hielo", "Psíquico"],
@@ -1377,7 +1377,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/125-Electabuzz.png",
+            "imagen": "assets/gen1/125-Electabuzz.png",
             "id": 125,
             "nombre": "Electabuzz",
             "tipo": ["Eléctrico"],
@@ -1388,7 +1388,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/126-Magmar.png",
+            "imagen": "assets/gen1/126-Magmar.png",
             "id": 126,
             "nombre": "Magmar",
             "tipo": ["Fuego"],
@@ -1399,7 +1399,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/127-Pinsir.png",
+            "imagen": "assets/gen1/127-Pinsir.png",
             "id": 127,
             "nombre": "Pinsir",
             "tipo": ["Bicho"],
@@ -1411,7 +1411,7 @@
     },
     
         {
-            "imagen": "assets/Pokemon-Images-001-151/128-Tauros.png",
+            "imagen": "assets/gen1/128-Tauros.png",
             "id": 128,
             "nombre": "Tauros",
             "tipo": ["Normal"],
@@ -1422,7 +1422,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/129-Magikarp.png",
+            "imagen": "assets/gen1/129-Magikarp.png",
             "id": 129,
             "nombre": "Magikarp",
             "tipo": ["Agua"],
@@ -1433,7 +1433,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/130-Gyarados.png",
+            "imagen": "assets/gen1/130-Gyarados.png",
             "id": 130,
             "nombre": "Gyarados",
             "tipo": ["Agua", "Volador"],
@@ -1444,7 +1444,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/131-Lapras.png",
+            "imagen": "assets/gen1/131-Lapras.png",
             "id": 131,
             "nombre": "Lapras",
             "tipo": ["Agua", "Hielo"],
@@ -1455,7 +1455,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/132-Ditto.png",
+            "imagen": "assets/gen1/132-Ditto.png",
             "id": 132,
             "nombre": "Ditto",
             "tipo": ["Normal"],
@@ -1466,7 +1466,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/133-Eevee.png",
+            "imagen": "assets/gen1/133-Eevee.png",
             "id": 133,
             "nombre": "Eevee",
             "tipo": ["Normal"],
@@ -1477,7 +1477,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/134-Vaporeon.png",
+            "imagen": "assets/gen1/134-Vaporeon.png",
             "id": 134,
             "nombre": "Vaporeon",
             "tipo": ["Agua"],
@@ -1488,7 +1488,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/135-Jolteon.png",
+            "imagen": "assets/gen1/135-Jolteon.png",
             "id": 135,
             "nombre": "Jolteon",
             "tipo": ["Eléctrico"],
@@ -1499,7 +1499,7 @@
             "generacion": 1
         },
         {
-            "imagen": "assets/Pokemon-Images-001-151/136-Flareon.png",
+            "imagen": "assets/gen1/136-Flareon.png",
             "id": 136,
             "nombre": "Flareon",
             "tipo": ["Fuego"],
@@ -1510,7 +1510,7 @@
             "generacion": 1
 },
     {
-        "imagen": "assets/Pokemon-Images-001-151/137-Porygon.png",
+        "imagen": "assets/gen1/137-Porygon.png",
         "id": 137,
         "nombre": "Porygon",
         "tipo": ["Normal"],
@@ -1521,7 +1521,7 @@
         "generacion": 1
     },
     {
-        "imagen": "assets/Pokemon-Images-001-151/138-Omanyte.png",
+        "imagen": "assets/gen1/138-Omanyte.png",
         "id": 138,
         "nombre": "Omanyte",
         "tipo": ["Roca", "Agua"],
@@ -1532,7 +1532,7 @@
         "generacion": 1
     },
     {
-        "imagen": "assets/Pokemon-Images-001-151/139-Omastar.png",
+        "imagen": "assets/gen1/139-Omastar.png",
         "id": 139,
         "nombre": "Omastar",
         "tipo": ["Roca", "Agua"],
@@ -1543,7 +1543,7 @@
         "generacion": 1
     },
     {
-        "imagen": "assets/Pokemon-Images-001-151/140-Kabuto.png",
+        "imagen": "assets/gen1/140-Kabuto.png",
         "id": 140,
         "nombre": "Kabuto",
         "tipo": ["Roca", "Agua"],
@@ -1554,7 +1554,7 @@
         "generacion": 1
     },
     {
-        "imagen": "assets/Pokemon-Images-001-151/141-Kabutops.png",
+        "imagen": "assets/gen1/141-Kabutops.png",
         "id": 141,
         "nombre": "Kabutops",
         "tipo": ["Roca", "Agua"],
@@ -1565,7 +1565,7 @@
         "generacion": 1
     },
     {
-        "imagen": "assets/Pokemon-Images-001-151/142-Aerodactyl.png",
+        "imagen": "assets/gen1/142-Aerodactyl.png",
         "id": 142,
         "nombre": "Aerodactyl",
         "tipo": ["Roca", "Volador"],
@@ -1576,7 +1576,7 @@
         "generacion": 1
     },
     {
-        "imagen": "assets/Pokemon-Images-001-151/143-Snorlax.png",
+        "imagen": "assets/gen1/143-Snorlax.png",
         "id": 143,
         "nombre": "Snorlax",
         "tipo": ["Normal"],
@@ -1587,7 +1587,7 @@
         "generacion": 1
     },
     {
-        "imagen": "assets/Pokemon-Images-001-151/144-Articuno.png",
+        "imagen": "assets/gen1/144-Articuno.png",
         "id": 144,
         "nombre": "Articuno",
         "tipo": ["Hielo", "Volador"],
@@ -1598,7 +1598,7 @@
         "generacion": 1
     },
     {
-        "imagen": "assets/Pokemon-Images-001-151/145-Zapdos.png",
+        "imagen": "assets/gen1/145-Zapdos.png",
         "id": 145,
         "nombre": "Zapdos",
         "tipo": ["Eléctrico", "Volador"],
@@ -1609,7 +1609,7 @@
         "generacion": 1
     },
     {
-        "imagen": "assets/Pokemon-Images-001-151/146-Moltres.png",
+        "imagen": "assets/gen1/146-Moltres.png",
         "id": 146,
         "nombre": "Moltres",
         "tipo": ["Fuego", "Volador"],
@@ -1620,7 +1620,7 @@
         "generacion": 1
     },
     {
-        "imagen": "assets/Pokemon-Images-001-151/147-Dratini.png",
+        "imagen": "assets/gen1/147-Dratini.png",
         "id": 147,
         "nombre": "Dratini",
         "tipo": ["Dragon"],
@@ -1631,7 +1631,7 @@
         "generacion": 1
     },
     {
-        "imagen": "assets/Pokemon-Images-001-151/148-Dragonair.png",
+        "imagen": "assets/gen1/148-Dragonair.png",
         "id": 148,
         "nombre": "Dragonair",
         "tipo": ["Dragon"],
@@ -1642,7 +1642,7 @@
         "generacion": 1
     },
     {
-        "imagen": "assets/Pokemon-Images-001-151/149-Dragonite.png",
+        "imagen": "assets/gen1/149-Dragonite.png",
         "id": 149,
         "nombre": "Dragonite",
         "tipo": ["Dragon", "Volador"],
@@ -1653,7 +1653,7 @@
         "generacion": 1
     },
     {
-        "imagen": "assets/Pokemon-Images-001-151/150-Mewtwo.png",
+        "imagen": "assets/gen1/150-Mewtwo.png",
         "id": 150,
         "nombre": "Mewtwo",
         "tipo": ["Psíquico"],
@@ -1664,7 +1664,7 @@
         "generacion": 1
     },
     {
-        "imagen": "assets/Pokemon-Images-001-151/151-Mew.png",
+        "imagen": "assets/gen1/151-Mew.png",
         "id": 151,
         "nombre": "Mew",
         "tipo": ["Psíquico"],
