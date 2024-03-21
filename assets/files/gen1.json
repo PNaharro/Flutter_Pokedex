@@ -308,7 +308,7 @@
         "generacion": 1
         },
         {
-        "imagen": "assets/Pokemon-Images-001-151/029-Nidoran♀.png",
+        "imagen": "assets/Pokemon-Images-001-151/029-Nidoran.png",
         "id": 29,
         "nombre": "Nidoran♀",
         "tipo": ["Veneno"],
@@ -341,7 +341,7 @@
         "generacion": 1
         },
         {
-        "imagen": "assets/Pokemon-Images-001-151/032-Nidoran♂.png",
+        "imagen": "assets/Pokemon-Images-001-151/032-Nidoran.png",
         "id": 32,
         "nombre": "Nidoran♂",
         "tipo": ["Veneno"],
