@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_pokedex/layouts/SecondLayout.dart';
 
+import 'PrimeraGen.dart';
+
 class MainLayout extends StatefulWidget {
   const MainLayout({Key? key}) : super(key: key);
 
@@ -20,7 +22,7 @@ class MainLayoutIntroState extends State<MainLayout> {
               onTap: () {
                 Navigator.push(
                   context,
-                  MaterialPageRoute(builder: (context) => SecondLayout()),
+                  MaterialPageRoute(builder: (context) => PrimeraGen()),
                 );
               },
               child: Text(
