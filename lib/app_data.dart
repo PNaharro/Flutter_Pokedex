@@ -40,15 +40,13 @@ class PokemonData {
   }
 }
 
-
 class AppData with ChangeNotifier {
   static late List<PokemonData> pokemonList;
 
   static Future<void> loadPokemonData() async {
     try {
       // Cargar el contenido del archivo JSON
-      String jsonString =
-          await rootBundle.loadString('assets/files/gen1.json');
+      String jsonString = await rootBundle.loadString('assets/files/gen1.json');
       // Decodificar el JSON en una lista de mapas de Dart
       List<dynamic> data = jsonDecode(jsonString);
       // Mapear cada mapa a un objeto PokemonData
@@ -61,14 +59,10 @@ class AppData with ChangeNotifier {
   }
 
   static PokemonData? getPokemonById(int id) {
-  print('Buscando Pokémon con ID: $id');
-  PokemonData? pokemon = pokemonList.firstWhere((pokemon) => pokemon.id == id);
-  if (pokemon == null) {
-    print('No se encontró ningún Pokémon con el ID: $id');
-  } else {
+    print('Buscando Pokémon con ID: $id');
+    PokemonData? pokemon =
+        pokemonList.firstWhere((pokemon) => pokemon.id == id);
     print('Se encontró el Pokémon con ID: $id - ${pokemon.nombre}');
+    return pokemon;
   }
-  return pokemon;
-}
-
 }

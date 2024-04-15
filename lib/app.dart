@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_pokedex/layouts/MainLayout.dart';
+import 'package:flutter_pokedex/Main/MainLayout.dart';
 
 // Main application widget
 class App extends StatefulWidget {

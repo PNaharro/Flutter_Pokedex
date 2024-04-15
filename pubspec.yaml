@@ -59,6 +59,9 @@ flutter:
     - assets/regiones/
     - assets/files/
     - assets/gen1/
+    - assets/icons/
+    - assets/logos/
+    - assets/tipos/
 
 
   # The following line ensures that the Material Icons font is
