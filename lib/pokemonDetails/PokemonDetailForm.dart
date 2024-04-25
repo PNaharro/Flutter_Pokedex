@@ -82,7 +82,7 @@ class _PokemonPageDetailState extends State<PokemonPageDetail> {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         Text(
-                          'ID - ${currentPokemon.id} - ${currentPokemon.nombre}',
+                          '${currentPokemon.id} - ${currentPokemon.nombre}',
                           style: const TextStyle(
                             color: Colors.white,
                             fontSize: 24,
